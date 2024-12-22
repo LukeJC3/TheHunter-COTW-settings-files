@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<container extension=".bin" format="RTPC" endian="Little">
+	<object name="root">
+		<object id="5FE8EB5C">
+			<object id="benchmark_1">
+				<value name="id" type="int">1</value>
+				<value name="location_name" type="string">global/benchmark_1</value>
+				<value name="name" type="string">benchmark flyby day</value>
+				<value name="start_position" type="vec">-4574.046,1077.523,13264.82</value>
+			</object>
+		</object>
+	</object>
+</container>
