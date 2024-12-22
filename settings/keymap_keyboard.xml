@@ -1,0 +1,615 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<container extension=".bin" format="RTPC" endian="Little">
+	<object name="root">
+		<object name="keymap">
+			<object name="A_GUI_INSPECTOR_NEXT_HIT">
+				<value name="action" type="string">A_GUI_INSPECTOR_NEXT_HIT</value>
+				<value name="key" type="string">E</value>
+			</object>
+			<object name="A_GUI_INSPECTOR_PAN">
+				<value name="action" type="string">A_GUI_INSPECTOR_PAN</value>
+				<value name="key" type="string">MOUSE3</value>
+			</object>
+			<object name="A_GUI_INSPECTOR_PREVIEW">
+				<value name="action" type="string">A_GUI_INSPECTOR_PREVIEW</value>
+				<value name="key" type="string">I</value>
+			</object>
+			<object name="A_GUI_INSPECTOR_XRAY">
+				<value name="action" type="string">A_GUI_INSPECTOR_XRAY</value>
+				<value name="key" type="string">MOUSE2</value>
+			</object>
+			<object name="A_GUI_OPEN_WEAPON_SKIN_SCREEN">
+				<value name="action" type="string">A_GUI_OPEN_WEAPON_SKIN_SCREEN</value>
+				<value name="key" type="string">C</value>
+			</object>
+			<object name="A_GUI_WEAPON_WHEEL_TAB_NEXT">
+				<value name="action" type="string">A_GUI_WEAPON_WHEEL_TAB_NEXT</value>
+				<value name="key" type="string">E</value>
+			</object>
+			<object name="A_GUI_WEAPON_WHEEL_TAB_PREV">
+				<value name="action" type="string">A_GUI_WEAPON_WHEEL_TAB_PREV</value>
+				<value name="key" type="string">Q</value>
+			</object>
+			<object name="A_PLACE_WAYPOINT_BINOCULARS">
+				<value name="action" type="string">A_PLACE_WAYPOINT_BINOCULARS</value>
+				<value name="key" type="string">R</value>
+			</object>
+			<object name="A_SCOPE_ZOOM_IN">
+				<value name="action" type="string">A_SCOPE_ZOOM_IN</value>
+				<value name="key" type="string">MWHEELUP</value>
+			</object>
+			<object name="A_SCOPE_ZOOM_OUT">
+				<value name="action" type="string">A_SCOPE_ZOOM_OUT</value>
+				<value name="key" type="string">MWHEELDOWN</value>
+			</object>
+			<object name="A_SCROLL_DOWN">
+				<value name="action" type="string">A_SCROLL_DOWN</value>
+				<value name="key" type="string">MWHEELDOWN</value>
+			</object>
+			<object name="A_SCROLL_UP">
+				<value name="action" type="string">A_SCROLL_UP</value>
+				<value name="key" type="string">MWHEELUP</value>
+			</object>
+			<object name="ACCELERATE">
+				<value name="action" type="string">ACCELERATE</value>
+				<value name="key" type="string">W</value>
+			</object>
+			<object name="AIM">
+				<value name="action" type="string">AIM</value>
+				<value name="key" type="string">MOUSE2</value>
+			</object>
+			<object name="ARROW_DOWN">
+				<value name="action" type="string">ARROW_DOWN</value>
+				<value name="key" type="string">DOWN</value>
+			</object>
+			<object name="ARROW_LEFT">
+				<value name="action" type="string">ARROW_LEFT</value>
+				<value name="key" type="string">LEFT</value>
+			</object>
+			<object name="ARROW_RIGHT">
+				<value name="action" type="string">ARROW_RIGHT</value>
+				<value name="key" type="string">RIGHT</value>
+			</object>
+			<object name="ARROW_UP">
+				<value name="action" type="string">ARROW_UP</value>
+				<value name="key" type="string">UP</value>
+			</object>
+			<object name="BTN_A">
+				<value name="action" type="string">BTN_A</value>
+				<value name="key" type="string">GP_RPADDOWN</value>
+			</object>
+			<object name="BTN_B">
+				<value name="action" type="string">BTN_B</value>
+				<value name="key" type="string">GP_RPADRIGHT</value>
+			</object>
+			<object name="BTN_X">
+				<value name="action" type="string">BTN_X</value>
+				<value name="key" type="string">GP_RPADLEFT</value>
+			</object>
+			<object name="BTN_Y">
+				<value name="action" type="string">BTN_Y</value>
+				<value name="key" type="string">GP_RPADUP</value>
+			</object>
+			<object name="DEBUG_STEP">
+				<value name="action" type="string">DEBUG_STEP</value>
+				<value name="key" type="string">NUMPADPLUS</value>
+			</object>
+			<object name="DEV_MODIFIER_COMBO_1">
+				<value name="action" type="string">DEV_MODIFIER_COMBO_1</value>
+				<value name="key" type="string">RSHIFT</value>
+			</object>
+			<object name="DEV_MODIFIER_COMBO_2">
+				<value name="action" type="string">DEV_MODIFIER_COMBO_2</value>
+				<value name="key" type="string">RSHIFT</value>
+			</object>
+			<object name="DP_DOWN">
+				<value name="action" type="string">DP_DOWN</value>
+				<value name="key" type="string">GP_LPADDOWN</value>
+			</object>
+			<object name="DP_LEFT">
+				<value name="action" type="string">DP_LEFT</value>
+				<value name="key" type="string">GP_LPADLEFT</value>
+			</object>
+			<object name="DP_RIGHT">
+				<value name="action" type="string">DP_RIGHT</value>
+				<value name="key" type="string">GP_LPADRIGHT</value>
+			</object>
+			<object name="DP_UP">
+				<value name="action" type="string">DP_UP</value>
+				<value name="key" type="string">GP_LPADUP</value>
+			</object>
+			<object name="FREEFLY">
+				<value name="action" type="string">FREEFLY</value>
+				<value name="key" type="string">F10</value>
+			</object>
+			<object name="FREEFLY_MOVE_DOWN">
+				<value name="action" type="string">FREEFLY_MOVE_DOWN</value>
+				<value name="key" type="string">F</value>
+			</object>
+			<object name="FREEFLY_MOVE_UP">
+				<value name="action" type="string">FREEFLY_MOVE_UP</value>
+				<value name="key" type="string">R</value>
+			</object>
+			<object name="FREEFLY_SLOW_DOWN">
+				<value name="action" type="string">FREEFLY_SLOW_DOWN</value>
+				<value name="key" type="string">LCONTROL</value>
+			</object>
+			<object name="FREEFLY_SPEED_UP">
+				<value name="action" type="string">FREEFLY_SPEED_UP</value>
+				<value name="key" type="string">LSHIFT</value>
+			</object>
+			<object name="GUI_BACK">
+				<value name="action" type="string">GUI_BACK</value>
+				<value name="key" type="string">BACKSPACE</value>
+			</object>
+			<object name="GUI_CANCEL">
+				<value name="action" type="string">GUI_CANCEL</value>
+				<value name="key" type="string">ESCAPE</value>
+			</object>
+			<object name="GUI_DOWN">
+				<value name="action" type="string">GUI_LSTICK_DOWN</value>
+				<value name="key" type="string">DOWN</value>
+			</object>
+			<object name="GUI_ENTER">
+				<value name="action" type="string">GUI_ENTER</value>
+				<value name="key" type="string">RETURN</value>
+			</object>
+			<object name="GUI_KENNEL_RETIRE">
+				<value name="action" type="string">GUI_KENNEL_RETIRE</value>
+				<value name="key" type="string">T</value>
+			</object>
+			<object name="GUI_KENNEL_SHOW_TRAITS">
+				<value name="action" type="string">GUI_KENNEL_SHOW_TRAITS</value>
+				<value name="key" type="string">TAB</value>
+			</object>
+			<object name="GUI_LEFT">
+				<value name="action" type="string">GUI_LSTICK_LEFT</value>
+				<value name="key" type="string">LEFT</value>
+			</object>
+			<object name="GUI_MOUSE_LBMOVE">
+				<value name="action" type="string">GUI_MOUSE_LBMOVE</value>
+				<value name="key" type="string">MOUSE1_MOVE</value>
+			</object>
+			<object name="GUI_MOUSE_RBMOVE">
+				<value name="action" type="string">GUI_MOUSE_RBMOVE</value>
+				<value name="key" type="string">MOUSE2_MOVE</value>
+			</object>
+			<object name="GUI_OK">
+				<value name="action" type="string">GUI_OK</value>
+				<value name="key" type="string">MOUSE1</value>
+			</object>
+			<object name="GUI_OPEN_COMMAND_WHEEL">
+				<value name="action" type="string">GUI_OPEN_COMMAND_WHEEL</value>
+				<value name="key" type="string">B</value>
+			</object>
+			<object name="GUI_OPEN_INVENTORY">
+				<value name="action" type="string">GUI_OPEN_INVENTORY</value>
+				<value name="key" type="string">F2</value>
+			</object>
+			<object name="GUI_OPEN_JOURNAL">
+				<value name="action" type="string">GUI_OPEN_JOURNAL</value>
+				<value name="key" type="string">F1</value>
+			</object>
+			<object name="GUI_OPEN_MAP">
+				<value name="action" type="string">GUI_OPEN_MAP</value>
+				<value name="key" type="string">M</value>
+			</object>
+			<object name="GUI_OPEN_MISSIONS">
+				<value name="action" type="string">GUI_OPEN_MISSIONS</value>
+				<value name="key" type="string">F5</value>
+			</object>
+			<object name="GUI_OPEN_PERKS">
+				<value name="action" type="string">GUI_OPEN_PERKS</value>
+				<value name="key" type="string">F4</value>
+			</object>
+			<object name="GUI_OPEN_SKILLS">
+				<value name="action" type="string">GUI_OPEN_SKILLS</value>
+				<value name="key" type="string">F3</value>
+			</object>
+			<object name="GUI_PAGE_NEXT">
+				<value name="action" type="string">GUI_PAGE_NEXT</value>
+				<value name="key" type="string">E</value>
+			</object>
+			<object name="GUI_PAGE_PREV">
+				<value name="action" type="string">GUI_PAGE_PREV</value>
+				<value name="key" type="string">Q</value>
+			</object>
+			<object name="GUI_PRC_ACTIVATE">
+				<value name="action" type="string">GUI_PRC_ACTIVATE</value>
+				<value name="key" type="string">R</value>
+			</object>
+			<object name="GUI_PRC_BACK">
+				<value name="action" type="string">GUI_PRC_BACK</value>
+				<value name="key" type="string">MOUSE2</value>
+			</object>
+			<object name="GUI_PRC_DEACTIVATE">
+				<value name="action" type="string">GUI_PRC_DEACTIVATE</value>
+				<value name="key" type="string">MOUSE2</value>
+			</object>
+			<object name="GUI_PRC_PLAY">
+				<value name="action" type="string">GUI_PRC_PLAY</value>
+				<value name="key" type="string">MOUSE1</value>
+			</object>
+			<object name="GUI_RIGHT">
+				<value name="action" type="string">GUI_LSTICK_RIGHT</value>
+				<value name="key" type="string">RIGHT</value>
+			</object>
+			<object name="GUI_SCOREBOARD">
+				<value name="action" type="string">GUI_SCOREBOARD</value>
+				<value name="key" type="string">I</value>
+			</object>
+			<object name="GUI_SPECIAL_BUTTON">
+				<value name="action" type="string">GUI_SPECIAL_BUTTON</value>
+				<value name="key" type="string">H</value>
+			</object>
+			<object name="GUI_TAB_NEXT">
+				<value name="action" type="string">GUI_TAB_NEXT</value>
+				<value name="key" type="string">RBRACKET</value>
+			</object>
+			<object name="GUI_TAB_PREV">
+				<value name="action" type="string">GUI_TAB_PREV</value>
+				<value name="key" type="string">LBRACKET</value>
+			</object>
+			<object name="GUI_UP">
+				<value name="action" type="string">UP</value>
+				<value name="key" type="string">GUI_LSTICK_UP</value>
+			</object>
+			<object name="GUI_USE_BUTTON">
+				<value name="action" type="string">GUI_USE_BUTTON</value>
+				<value name="key" type="string">Y</value>
+			</object>
+			<object name="HANDBRAKE">
+				<value name="action" type="string">HANDBRAKE</value>
+				<value name="key" type="string">SPACE</value>
+			</object>
+			<object name="HEADLAMP">
+				<value name="action" type="string">HEADLAMP</value>
+				<value name="key" type="string">L</value>
+			</object>
+			<object name="HOLSTER_WEAPON">
+				<value name="action" type="string">HOLSTER_WEAPON</value>
+				<value name="key" type="string">H</value>
+			</object>
+			<object name="INTERACT">
+				<value name="action" type="string">INTERACT</value>
+				<value name="key" type="string">E</value>
+			</object>
+			<object name="JUMP">
+				<value name="action" type="string">JUMP</value>
+				<value name="key" type="string">SPACE</value>
+			</object>
+			<object name="L1">
+				<value name="action" type="string">L1</value>
+				<value name="key" type="string">GP_RSHOULDER</value>
+			</object>
+			<object name="L2">
+				<value name="action" type="string">L2</value>
+				<value name="key" type="string">GP_LTRIGGER</value>
+			</object>
+			<object name="LOOK_DOWN">
+				<value name="action" type="string">LOOK_DOWN</value>
+				<value name="key" type="string">MOUSEDOWN</value>
+			</object>
+			<object name="LOOK_LEFT">
+				<value name="action" type="string">LOOK_LEFT</value>
+				<value name="key" type="string">MOUSELEFT</value>
+			</object>
+			<object name="LOOK_RIGHT">
+				<value name="action" type="string">LOOK_RIGHT</value>
+				<value name="key" type="string">MOUSERIGHT</value>
+			</object>
+			<object name="LOOK_UP">
+				<value name="action" type="string">LOOK_UP</value>
+				<value name="key" type="string">MOUSEUP</value>
+			</object>
+			<object name="MEASURE_TOOL">
+				<value name="action" type="string">MEASURE_TOOL</value>
+				<value name="key" type="string">M</value>
+			</object>
+			<object name="MOUSE1">
+				<value name="action" type="string">MOUSE1</value>
+				<value name="key" type="string">MOUSE1</value>
+			</object>
+			<object name="MOUSE2">
+				<value name="action" type="string">MOUSE2</value>
+				<value name="key" type="string">MOUSE2</value>
+			</object>
+			<object name="MOVE_BACKWARD">
+				<value name="action" type="string">MOVE_BACKWARD</value>
+				<value name="key" type="string">S</value>
+			</object>
+			<object name="MOVE_FORWARD">
+				<value name="action" type="string">MOVE_FORWARD</value>
+				<value name="key" type="string">W</value>
+			</object>
+			<object name="MOVE_LEFT">
+				<value name="action" type="string">MOVE_LEFT</value>
+				<value name="key" type="string">A</value>
+			</object>
+			<object name="MOVE_RIGHT">
+				<value name="action" type="string">MOVE_RIGHT</value>
+				<value name="key" type="string">D</value>
+			</object>
+			<object name="NEXT_POSE">
+				<value name="action" type="string">NEXT_POSE</value>
+				<value name="key" type="string">MOUSE2</value>
+			</object>
+			<object name="NEXT_WEAPON">
+				<value name="action" type="string">NEXT_WEAPON</value>
+				<value name="key" type="string">MWHEELUP</value>
+			</object>
+			<object name="OPEN_CHAT">
+				<value name="action" type="string">OPEN_CHAT</value>
+				<value name="key" type="string">T</value>
+			</object>
+			<object name="OPEN_PARACHUTE">
+				<value name="action" type="string">OPEN_PARACHUTE</value>
+				<value name="key" type="string">RCONTROL</value>
+			</object>
+			<object name="PAUSE">
+				<value name="action" type="string">GUI_PAUSE</value>
+				<value name="key" type="string">ESCAPE</value>
+			</object>
+			<object name="PLACE_SWAP_TROPHY">
+				<value name="action" type="string">PLACE_SWAP_TROPHY</value>
+				<value name="key" type="string">E</value>
+			</object>
+			<object name="PREVIOUS_POSE">
+				<value name="action" type="string">PREVIOUS_POSE</value>
+				<value name="key" type="string">MOUSE1</value>
+			</object>
+			<object name="PRONE">
+				<value name="action" type="string">PRONE</value>
+				<value name="key" type="string">Z</value>
+			</object>
+			<object name="QUICK_SWITCH_ITEM">
+				<value name="action" type="string">QUICK_SWITCH_ITEM</value>
+				<value name="key" type="string">Q</value>
+			</object>
+			<object name="R1">
+				<value name="action" type="string">R1</value>
+				<value name="key" type="string">GP_RSHOULDER</value>
+			</object>
+			<object name="R2">
+				<value name="action" type="string">R2</value>
+				<value name="key" type="string">GP_RTRIGGER</value>
+			</object>
+			<object name="RELOAD">
+				<value name="action" type="string">RELOAD</value>
+				<value name="key" type="string">R</value>
+			</object>
+			<object name="REMOVE_TROPHY">
+				<value name="action" type="string">REMOVE_TROPHY</value>
+				<value name="key" type="string">Q</value>
+			</object>
+			<object name="REVERSE">
+				<value name="action" type="string">REVERSE</value>
+				<value name="key" type="string">S</value>
+			</object>
+			<object name="ROTATE_PLATFORM_LEFT">
+				<value name="action" type="string">ROTATE_PLATFORM_LEFT</value>
+				<value name="key" type="string">LEFT</value>
+			</object>
+			<object name="ROTATE_PLATFORM_RIGHT">
+				<value name="action" type="string">ROTATE_PLATFORM_RIGHT</value>
+				<value name="key" type="string">RIGHT</value>
+			</object>
+			<object name="RUN_TOGGLE">
+				<value name="action" type="string">RUN_TOGGLE</value>
+				<value name="key" type="string">CAPSLOCK</value>
+			</object>
+			<object name="SELECT_ITEM_NEXT">
+				<value name="action" type="string">SELECT_ITEM_NEXT</value>
+				<value name="key" type="string">MWHEELDOWN</value>
+			</object>
+			<object name="SELECT_ITEM_PREV">
+				<value name="action" type="string">SELECT_ITEM_PREV</value>
+				<value name="key" type="string">MWHEELUP</value>
+			</object>
+			<object name="SPEED_ADJUST">
+				<value name="action" type="string">SPEED_ADJUST</value>
+				<value name="key" type="string">V</value>
+			</object>
+			<object name="SWITCH_TROPHY_LODGE_EDITING_MODE">
+				<value name="action" type="string">SWITCH_TROPHY_LODGE_EDITING_MODE</value>
+				<value name="key" type="string">V</value>
+			</object>
+			<object name="TOBII_CENTER_HEAD">
+				<value name="action" type="string">TOBII_CENTER_HEAD</value>
+				<value name="key" type="string">O</value>
+			</object>
+			<object name="TOGGLE_AUTO_MOVE">
+				<value name="action" type="string">TOGGLE_AUTO_MOVE</value>
+				<value name="key" type="string">G</value>
+			</object>
+			<object name="TOGGLE_HUNTERMATE_CAMERA">
+				<value name="action" type="string">TOGGLE_HUNTERMATE_CAMERA</value>
+				<value name="key" type="string">P</value>
+			</object>
+			<object name="TOGGLE_SCOPE">
+				<value name="action" type="string">TOGGLE_SCOPE</value>
+				<value name="key" type="string">MOUSE3</value>
+			</object>
+			<object name="TROPHYLODGE_FLIP">
+				<value name="action" type="string">TROPHYLODGE_FLIP</value>
+				<value name="key" type="string">R</value>
+			</object>
+			<object name="TURN_LEFT">
+				<value name="action" type="string">TURN_LEFT</value>
+				<value name="key" type="string">A</value>
+			</object>
+			<object name="TURN_RIGHT">
+				<value name="action" type="string">TURN_RIGHT</value>
+				<value name="key" type="string">D</value>
+			</object>
+			<object name="USE_SKILL">
+				<value name="action" type="string">USE_SKILL</value>
+				<value name="key" type="string">F</value>
+			</object>
+			<object name="VEHICLE_CAM">
+				<value name="action" type="string">VEHICLE_CAM</value>
+				<value name="key" type="string">C</value>
+			</object>
+			<object name="WEAPON_RESET_ZOOM">
+				<value name="action" type="string">WEAPON_RESET_ZOOM</value>
+				<value name="key" type="string">MOUSE3</value>
+			</object>
+			<object name="WHISTLE">
+				<value name="action" type="string">WHISTLE</value>
+				<value name="key" type="string">X</value>
+			</object>
+			<object name="WIELD_EQUIPMENT_SLOT_1">
+				<value name="action" type="string">WIELD_EQUIPMENT_SLOT_1</value>
+				<value name="key" type="string">1</value>
+			</object>
+			<object name="WIELD_EQUIPMENT_SLOT_10">
+				<value name="action" type="string">WIELD_EQUIPMENT_SLOT_10</value>
+				<value name="key" type="string">0</value>
+			</object>
+			<object name="WIELD_EQUIPMENT_SLOT_2">
+				<value name="action" type="string">WIELD_EQUIPMENT_SLOT_2</value>
+				<value name="key" type="string">2</value>
+			</object>
+			<object name="WIELD_EQUIPMENT_SLOT_3">
+				<value name="action" type="string">WIELD_EQUIPMENT_SLOT_3</value>
+				<value name="key" type="string">3</value>
+			</object>
+			<object name="WIELD_EQUIPMENT_SLOT_4">
+				<value name="action" type="string">WIELD_EQUIPMENT_SLOT_4</value>
+				<value name="key" type="string">4</value>
+			</object>
+			<object name="WIELD_EQUIPMENT_SLOT_5">
+				<value name="action" type="string">WIELD_EQUIPMENT_SLOT_5</value>
+				<value name="key" type="string">5</value>
+			</object>
+			<object name="WIELD_EQUIPMENT_SLOT_6">
+				<value name="action" type="string">WIELD_EQUIPMENT_SLOT_6</value>
+				<value name="key" type="string">6</value>
+			</object>
+			<object name="WIELD_EQUIPMENT_SLOT_7">
+				<value name="action" type="string">WIELD_EQUIPMENT_SLOT_7</value>
+				<value name="key" type="string">7</value>
+			</object>
+			<object name="WIELD_EQUIPMENT_SLOT_8">
+				<value name="action" type="string">WIELD_EQUIPMENT_SLOT_8</value>
+				<value name="key" type="string">8</value>
+			</object>
+			<object name="WIELD_EQUIPMENT_SLOT_9">
+				<value name="action" type="string">WIELD_EQUIPMENT_SLOT_9</value>
+				<value name="key" type="string">9</value>
+			</object>
+			<object name="WIELD_HUNTERMATE">
+				<value name="action" type="string">WIELD_HUNTERMATE</value>
+				<value name="key" type="string">TAB</value>
+			</object>
+			<object id="00EA9AB0">
+				<value name="action" type="string">A_GUI_WEAPON_WHEEL_CANCEL</value>
+				<value name="key" type="string">MOUSE2</value>
+			</object>
+			<object id="09B88953">
+				<value name="action" type="string">PREV_WEAPON</value>
+				<value name="key" type="string">MWHEELDOWN</value>
+			</object>
+			<object id="0F6E1CDF">
+				<value name="action" type="string">KENNEL_RENAME</value>
+				<value name="key" type="string">R</value>
+			</object>
+			<object id="12F83646">
+				<value name="action" type="string">A_GUI_OPEN_WEAPON_WHEEL</value>
+				<value name="key" type="string">MOUSE3</value>
+			</object>
+			<object id="23FCE40D">
+				<value name="action" type="string">RIGHT_ALT</value>
+				<value name="key" type="string">RALT</value>
+			</object>
+			<object id="48480C22">
+				<value name="action" type="string">A_GUI_INSPECTOR_ZOOM_IN</value>
+				<value name="key" type="string">MWHEELUP</value>
+			</object>
+			<object id="5D1B2AAC">
+				<value name="action" type="string">A_GUI_WEAPON_WHEEL_CHANGE_SCOPE</value>
+				<value name="key" type="string">E</value>
+			</object>
+			<object id="5DEEBF4F">
+				<value name="action" type="string">LEFT_ALT</value>
+				<value name="key" type="string">LALT</value>
+			</object>
+			<object id="5FD0FA56">
+				<value name="action" type="string">A_GUI_WEAPON_WHEEL_CHANGE_AMMO</value>
+				<value name="key" type="string">Q</value>
+			</object>
+			<object id="65CABA09">
+				<value name="action" type="string">HOLD_BREATH</value>
+				<value name="key" type="string">LSHIFT</value>
+			</object>
+			<object id="6C306C82">
+				<value name="action" type="string">OPEN_WINGSUIT</value>
+				<value name="key" type="string">R</value>
+			</object>
+			<object id="6E6527F4">
+				<value name="action" type="string">RUN</value>
+				<value name="key" type="string">LSHIFT</value>
+			</object>
+			<object id="7761F961">
+				<value name="action" type="string">A_GUI_INSPECTOR_ROTATE</value>
+				<value name="key" type="string">MOUSE1_MOVE</value>
+			</object>
+			<object id="77E6A57E">
+				<value name="action" type="string">A_GUI_COMMAND_WHEEL_NEXT_PAGE</value>
+				<value name="key" type="string">MWHEELDOWN</value>
+			</object>
+			<object id="8800851E">
+				<value name="action" type="string">FIRE_RIGHT</value>
+				<value name="key" type="string">MOUSE1</value>
+			</object>
+			<object id="9274C792">
+				<value name="action" type="string">DEBUG_DECREE</value>
+				<value name="key" type="string">LEFT</value>
+			</object>
+			<object id="95F06701">
+				<value name="action" type="string">GUI_PDA</value>
+				<value name="key" type="string">F7</value>
+			</object>
+			<object id="AD27C3EE">
+				<value name="action" type="string">A_GUI_INSPECTOR_RESET</value>
+				<value name="key" type="string">R</value>
+			</object>
+			<object id="BB91125F">
+				<value name="action" type="string">GUI_OPEN_MULTIPLAYER</value>
+				<value name="key" type="string">F6</value>
+			</object>
+			<object id="BF4EA30F">
+				<value name="action" type="string">A_GUI_BUY_MISSING_ITEM</value>
+				<value name="key" type="string">B</value>
+			</object>
+			<object id="CBAF33E9">
+				<value name="action" type="string">A_GUI_COMMAND_WHEEL_PREV_PAGE</value>
+				<value name="key" type="string">MWHEELUP</value>
+			</object>
+			<object id="D6E8F158">
+				<value name="action" type="string">A_GUI_MANUAL_SAVE_LOADOUT</value>
+				<value name="key" type="string">R</value>
+			</object>
+			<object id="E2A9D921">
+				<value name="action" type="string">A_GUI_INSPECTOR_ZOOM_OUT</value>
+				<value name="key" type="string">MWHEELDOWN</value>
+			</object>
+			<object id="E45C33F0">
+				<value name="action" type="string">DEBUG_INCREE</value>
+				<value name="key" type="string">RIGHT</value>
+			</object>
+			<object id="EE4FD3B1">
+				<value name="action" type="string">A_GUI_CUSTOMIZE_SKIN</value>
+				<value name="key" type="string">C</value>
+			</object>
+			<object id="F816BD33">
+				<value name="action" type="string">CROUCH</value>
+				<value name="key" type="string">LCONTROL</value>
+			</object>
+			<object id="FDAC1EC2">
+				<value name="action" type="string">A_HIDE_ALL_CLUES</value>
+				<value name="key" type="string">U</value>
+			</object>
+		</object>
+	</object>
+</container>
