@@ -2,7 +2,7 @@
 <container extension=".bin" format="RTPC" endian="Little">
 	<object name="root">
 		<object id="5FE8EB5C">
-			<object id="benchmark_1">
+			<object name="benchmark_1">
 				<value name="id" type="int">1</value>
 				<value name="location_name" type="string">global/benchmark_1</value>
 				<value name="name" type="string">benchmark flyby day</value>
