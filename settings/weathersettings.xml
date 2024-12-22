@@ -1,0 +1,353 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<container extension=".bin" format="RTPC" endian="Little">
+	<object name="root">
+		<value name="acceleration" type="float">1</value>
+		<value name="cloud_base" type="float">1500</value>
+		<value name="cloud_height" type="float">1000</value>
+		<value name="draw_distance" type="float">40000</value>
+		<value name="mist_altitude" type="float">700</value>
+		<value name="mist_count" type="int">500</value>
+		<value name="severity" type="float">1</value>
+		<value id="4BC5E3C8" type="float">6000</value>
+		<value id="DDF326CC" type="float">2000</value>
+		<value id="F3C79AD3" type="int">5000</value>
+		<object id="0556F3AA">
+			<object name="reserve_13">
+				<value name="influence" type="float">1</value>
+				<value name="preset_name" type="string">reserve_13</value>
+				<value name="priority" type="int">8</value>
+			</object>
+			<object name="reserve_13_snow">
+				<value name="influence" type="float">1</value>
+				<value name="preset_name" type="string">reserve_13_snow</value>
+				<value name="priority" type="int">9</value>
+				<object id="5CCB280E">
+					<value name="disable_event" type="string">exited_snow</value>
+					<value name="enable_event" type="string">entered_snow</value>
+					<value id="3BD86577" type="float">300</value>
+					<value id="87075068" type="float">300</value>
+					<value id="C5496EA2" type="string">event</value>
+				</object>
+				<object id="65597BCF">
+					<value id="BD6355F2" type="float">300</value>
+					<value id="C1E6BC23" type="float">1000</value>
+					<value id="C5496EA2" type="string">random</value>
+				</object>
+			</object>
+		</object>
+		<object id="11F6DBA8">
+			<object name="reserve_10">
+				<value name="influence" type="float">1</value>
+				<value name="preset_name" type="string">reserve_10</value>
+				<value name="priority" type="int">8</value>
+			</object>
+		</object>
+		<object id="2E160853">
+			<object name="reserve_3">
+				<value name="influence" type="float">1</value>
+				<value name="preset_name" type="string">reserve_3</value>
+				<value name="priority" type="int">8</value>
+			</object>
+		</object>
+		<object id="2FF1CDE1">
+			<object name="reserve_6">
+				<value name="influence" type="float">1</value>
+				<value name="preset_name" type="string">reserve_6</value>
+				<value name="priority" type="int">8</value>
+			</object>
+		</object>
+		<object id="3139A409" />
+		<object id="315EDA19" />
+		<object id="32B2F032">
+			<object name="reserve_8">
+				<value name="influence" type="float">1</value>
+				<value name="preset_name" type="string">reserve_8</value>
+				<value name="priority" type="int">8</value>
+			</object>
+		</object>
+		<object id="498B7209">
+			<object name="reserve_11">
+				<value name="influence" type="float">1</value>
+				<value name="preset_name" type="string">reserve_11</value>
+				<value name="priority" type="int">8</value>
+			</object>
+		</object>
+		<object id="6C62FF41">
+			<object id="AB455475">
+				<value name="influence" type="float">1</value>
+				<value name="preset_name" type="string">reserve_9</value>
+				<value name="priority" type="int">8</value>
+			</object>
+		</object>
+		<object id="7AD02288">
+			<object id="8F4DCFDA">
+				<value name="influence" type="float">1</value>
+				<value name="preset_name" type="string">reserve_14</value>
+				<value name="priority" type="int">8</value>
+			</object>
+		</object>
+		<object id="8AAA0599">
+			<object id="1E0356C0">
+				<value name="influence" type="float">1</value>
+				<value name="preset_name" type="string">reserve_5</value>
+				<value name="priority" type="int">8</value>
+			</object>
+		</object>
+		<object id="BDAF98BF">
+			<object name="reserve_17">
+				<value name="influence" type="float">1</value>
+				<value name="preset_name" type="string">reserve_17</value>
+				<value name="priority" type="int">8</value>
+			</object>
+			<object name="reserve_17_snowstorm_random">
+				<value name="influence" type="float">1</value>
+				<value name="preset_name" type="string">reserve_17_snowstorm_random</value>
+				<value name="priority" type="int">9</value>
+				<object id="5CCB280E">
+					<value name="disable_event" type="string">exited_himal</value>
+					<value name="enable_event" type="string">entered_himalentered_himal</value>
+					<value id="2C06E195" type="string">exit_nepal_snow_storm_event</value>
+					<value id="3BD86577" type="float">60</value>
+					<value id="3DEA62E7" type="float">300</value>
+					<value id="44FFC9DA" type="float">1200</value>
+					<value id="537DDCEA" type="float">0.03</value>
+					<value id="5F1D0784" type="float">600</value>
+					<value id="87075068" type="float">60</value>
+					<value id="92256767" type="float">0.25</value>
+					<value id="C5496EA2" type="string">event_random</value>
+					<value id="D9CF03F7" type="string">09_nepal_snow_storm_event</value>
+					<value id="EDA0C265" type="float">300</value>
+					<value id="FC5DC430" type="string">force_start_snowstorm</value>
+				</object>
+			</object>
+		</object>
+		<object id="BFA4B8CC">
+			<object name="reserve_7">
+				<value name="influence" type="float">1</value>
+				<value name="preset_name" type="string">reserve_7</value>
+				<value name="priority" type="int">8</value>
+			</object>
+		</object>
+		<object id="C7228066">
+			<object name="reserve_4">
+				<value name="influence" type="float">1</value>
+				<value name="preset_name" type="string">reserve_4</value>
+				<value name="priority" type="int">8</value>
+			</object>
+		</object>
+		<object id="C9C3BA20">
+			<object name="reserve_12">
+				<value name="influence" type="float">1</value>
+				<value name="preset_name" type="string">reserve_12</value>
+				<value name="priority" type="int">8</value>
+			</object>
+		</object>
+		<object id="DC3800B8">
+			<object name="reserve_16">
+				<value name="influence" type="float">1</value>
+				<value name="preset_name" type="string">reserve_16</value>
+				<value name="priority" type="int">8</value>
+			</object>
+			<object name="reserve_16_outback">
+				<value name="influence" type="float">1</value>
+				<value name="preset_name" type="string">reserve_16_outback</value>
+				<value name="priority" type="int">9</value>
+				<object id="5CCB280E">
+					<value name="disable_event" type="string">exited_outback</value>
+					<value name="enable_event" type="string">entered_outback</value>
+					<value id="3BD86577" type="float">2</value>
+					<value id="87075068" type="float">2</value>
+					<value id="C5496EA2" type="string">event</value>
+				</object>
+			</object>
+		</object>
+		<object id="DDBE3675">
+			<object name="reserve_2">
+				<value name="influence" type="float">1</value>
+				<value name="preset_name" type="string">reserve_2</value>
+				<value name="priority" type="int">8</value>
+			</object>
+		</object>
+		<object id="DF92140F">
+			<object name="altitude_wind">
+				<value name="influence" type="float">1</value>
+				<value name="preset_name" type="string">altitude_wind</value>
+				<value name="priority" type="int">4</value>
+				<object id="5CCB280E">
+					<value id="4D3FBEDE" type="float">3</value>
+					<value id="B44247AE" type="float">350</value>
+					<value id="BD6355F2" type="float">50</value>
+					<value id="C5496EA2" type="string">absolute_altitude</value>
+				</object>
+			</object>
+			<object name="damage_effect">
+				<value name="influence" type="float">1</value>
+				<value name="preset_name" type="string">damage_effect</value>
+				<value name="priority" type="int">1002</value>
+				<object id="5CCB280E">
+					<value name="disable_event" type="string">damage_effect_off</value>
+					<value name="enable_event" type="string">damage_effect_on</value>
+					<value id="3BD86577" type="float">0.5</value>
+					<value id="87075068" type="float">0</value>
+					<value id="C5496EA2" type="string">event</value>
+				</object>
+			</object>
+			<object name="forced_cloudy">
+				<value name="influence" type="float">1</value>
+				<value name="preset_name" type="string">forced_cloudy</value>
+				<value name="priority" type="int">100</value>
+				<object id="5CCB280E">
+					<value name="disable_event" type="string">forced_cloudy_disabled</value>
+					<value name="enable_event" type="string">forced_cloudy_enabled</value>
+					<value id="3BD86577" type="float">0</value>
+					<value id="87075068" type="float">0</value>
+					<value id="C5496EA2" type="string">event</value>
+				</object>
+			</object>
+			<object name="forced_rain">
+				<value name="influence" type="float">1</value>
+				<value name="preset_name" type="string">forced_rain</value>
+				<value name="priority" type="int">100</value>
+				<object id="5CCB280E">
+					<value name="disable_event" type="string">forced_rain_disabled</value>
+					<value name="enable_event" type="string">forced_rain_enabled</value>
+					<value id="3BD86577" type="float">0</value>
+					<value id="87075068" type="float">0</value>
+					<value id="C5496EA2" type="string">event</value>
+				</object>
+			</object>
+			<object name="forced_snowstorm">
+				<value name="influence" type="float">1</value>
+				<value name="preset_name" type="string">forced_snowstorm</value>
+				<value name="priority" type="int">100</value>
+				<object id="5CCB280E">
+					<value name="disable_event" type="string">forced_snowstorm_disabled</value>
+					<value name="enable_event" type="string">forced_snowstorm_enabled</value>
+					<value id="3BD86577" type="float">10</value>
+					<value id="87075068" type="float">10</value>
+					<value id="C5496EA2" type="string">event</value>
+				</object>
+			</object>
+			<object name="forced_sunny">
+				<value name="influence" type="float">1</value>
+				<value name="preset_name" type="string">forced_sunny</value>
+				<value name="priority" type="int">100</value>
+				<object id="5CCB280E">
+					<value name="disable_event" type="string">forced_sunny_disabled</value>
+					<value name="enable_event" type="string">forced_sunny_enabled</value>
+					<value id="3BD86577" type="float">0</value>
+					<value id="87075068" type="float">0</value>
+					<value id="C5496EA2" type="string">event</value>
+				</object>
+			</object>
+			<object name="forced_windy_rain">
+				<value name="influence" type="float">1</value>
+				<value name="preset_name" type="string">forced_windy_rain</value>
+				<value name="priority" type="int">100</value>
+				<object id="5CCB280E">
+					<value name="disable_event" type="string">forced_windy_rain_disabled</value>
+					<value name="enable_event" type="string">forced_windy_rain_enabled</value>
+					<value id="3BD86577" type="float">10</value>
+					<value id="87075068" type="float">10</value>
+					<value id="C5496EA2" type="string">event</value>
+				</object>
+			</object>
+			<object name="heal_effect">
+				<value name="influence" type="float">1</value>
+				<value name="preset_name" type="string">heal_effect</value>
+				<value name="priority" type="int">1003</value>
+				<object id="5CCB280E">
+					<value name="disable_event" type="string">heal_effect_off</value>
+					<value name="enable_event" type="string">heal_effect_on</value>
+					<value id="3BD86577" type="float">0.75</value>
+					<value id="87075068" type="float">0</value>
+					<value id="C5496EA2" type="string">event</value>
+				</object>
+			</object>
+			<object name="huntermate">
+				<value name="influence" type="float">1</value>
+				<value name="preset_name" type="string">huntermate</value>
+				<value name="priority" type="int">1001</value>
+				<object id="5CCB280E">
+					<value name="disable_event" type="string">deactivate_landscape_huntermate_ui</value>
+					<value name="enable_event" type="string">activate_landscape_huntermate_ui</value>
+					<value id="3BD86577" type="float">0</value>
+					<value id="87075068" type="float">0</value>
+					<value id="C5496EA2" type="string">event</value>
+				</object>
+			</object>
+			<object name="night_vision">
+				<value name="influence" type="float">1</value>
+				<value name="preset_name" type="string">night_vision</value>
+				<value name="priority" type="int">1004</value>
+				<object id="5CCB280E">
+					<value name="disable_event" type="string">night_vision_off</value>
+					<value name="enable_event" type="string">night_vision_on</value>
+					<value id="3BD86577" type="float">0</value>
+					<value id="87075068" type="float">0</value>
+					<value id="C5496EA2" type="string">event</value>
+				</object>
+			</object>
+			<object name="overcast">
+				<value name="influence" type="float">0.8</value>
+				<value name="preset_name" type="string">overcast</value>
+				<value name="priority" type="int">3</value>
+				<object id="5CCB280E">
+					<value id="4D3FBEDE" type="float">1</value>
+					<value id="B44247AE" type="float">0.2</value>
+					<value id="BD6355F2" type="float">10</value>
+					<value id="C5496EA2" type="string">cloud_coverage</value>
+				</object>
+			</object>
+			<object name="post_rain_fog">
+				<value name="influence" type="float">1</value>
+				<value name="preset_name" type="string">post_rain_fog</value>
+				<value name="priority" type="int">5</value>
+				<object id="5CCB280E">
+					<value name="max_time" type="float">300</value>
+					<value id="BD6355F2" type="float">30</value>
+					<value id="C5496EA2" type="string">post_rain</value>
+				</object>
+				<object id="65597BCF">
+					<value id="4D3FBEDE" type="float">1</value>
+					<value id="B44247AE" type="float">0.2</value>
+					<value id="BD6355F2" type="float">15</value>
+					<value id="C5496EA2" type="string">cloud_coverage</value>
+				</object>
+			</object>
+			<object name="rain">
+				<value name="influence" type="float">0.8</value>
+				<value name="preset_name" type="string">rain</value>
+				<value name="priority" type="int">7</value>
+				<object id="5CCB280E">
+					<value id="4D3FBEDE" type="float">30</value>
+					<value id="B44247AE" type="float">0.7</value>
+					<value id="BD6355F2" type="float">0</value>
+					<value id="C5496EA2" type="string">rain_intensity</value>
+				</object>
+			</object>
+			<object name="snow">
+				<value name="influence" type="float">0.8</value>
+				<value name="preset_name" type="string">snow</value>
+				<value name="priority" type="int">6</value>
+				<object id="5CCB280E">
+					<value id="7CC84FD0" type="float">0.4</value>
+					<value id="BD6355F2" type="float">30</value>
+					<value id="C0968911" type="float">1</value>
+					<value id="C5496EA2" type="string">snow_intensity</value>
+				</object>
+			</object>
+			<object name="windy">
+				<value name="influence" type="float">0.8</value>
+				<value name="preset_name" type="string">windy</value>
+				<value name="priority" type="int">2</value>
+				<object id="5CCB280E">
+					<value id="BD6355F2" type="float">300</value>
+					<value id="C1E6BC23" type="float">1000</value>
+					<value id="C5496EA2" type="string">random</value>
+				</object>
+			</object>
+		</object>
+		<object id="E05B207B" />
+	</object>
+</container>
