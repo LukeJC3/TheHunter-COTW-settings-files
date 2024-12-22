@@ -1,0 +1,603 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<container extension=".bin" format="RTPC" endian="Little">
+	<object name="root">
+		<object name="keymap">
+			<object name="A_GUI_INSPECTOR_NEXT_HIT">
+				<value name="action" type="string">A_GUI_INSPECTOR_NEXT_HIT</value>
+				<value name="key" type="string">GP_RSHOULDER</value>
+			</object>
+			<object name="A_GUI_INSPECTOR_PAN">
+				<value name="action" type="string">A_GUI_INSPECTOR_PAN</value>
+				<value name="key" type="string">GP_LSTICK</value>
+			</object>
+			<object name="A_GUI_INSPECTOR_PREVIEW">
+				<value name="action" type="string">A_GUI_INSPECTOR_PREVIEW</value>
+				<value name="key" type="string">GP_RSTICKBUTTON</value>
+			</object>
+			<object name="A_GUI_INSPECTOR_RESET">
+				<value name="action" type="string">A_GUI_INSPECTOR_RESET</value>
+				<value name="key" type="string">GP_LTRIGGER</value>
+			</object>
+			<object name="A_GUI_INSPECTOR_ROTATE">
+				<value name="action" type="string">A_GUI_INSPECTOR_ROTATE</value>
+				<value name="key" type="string">GP_RSTICK</value>
+			</object>
+			<object name="A_GUI_INSPECTOR_XRAY">
+				<value name="action" type="string">A_GUI_INSPECTOR_XRAY</value>
+				<value name="key" type="string">GP_RTRIGGER</value>
+			</object>
+			<object name="A_GUI_INSPECTOR_ZOOM_IN">
+				<value name="action" type="string">A_GUI_INSPECTOR_ZOOM_IN</value>
+				<value name="key" type="string">GP_LPADUP</value>
+			</object>
+			<object name="A_GUI_INSPECTOR_ZOOM_OUT">
+				<value name="action" type="string">A_GUI_INSPECTOR_ZOOM_OUT</value>
+				<value name="key" type="string">GP_LPADDOWN</value>
+			</object>
+			<object name="A_GUI_WEAPON_WHEEL_TAB_NEXT">
+				<value name="action" type="string">A_GUI_WEAPON_WHEEL_TAB_NEXT</value>
+				<value name="key" type="string">GP_RSHOULDER</value>
+			</object>
+			<object name="A_GUI_WEAPON_WHEEL_TAB_PREV">
+				<value name="action" type="string">A_GUI_WEAPON_WHEEL_TAB_PREV</value>
+				<value name="key" type="string">GP_LSHOULDER</value>
+			</object>
+			<object name="A_PLACE_WAYPOINT_BINOCULARS">
+				<value name="action" type="string">A_PLACE_WAYPOINT_BINOCULARS</value>
+				<value name="key" type="string">GP_RPADUP</value>
+			</object>
+			<object name="A_SCOPE_ZOOM_IN">
+				<value name="action" type="string">A_SCOPE_ZOOM_IN</value>
+				<value name="key" type="string">GP_LPADUP</value>
+			</object>
+			<object name="A_SCOPE_ZOOM_OUT">
+				<value name="action" type="string">A_SCOPE_ZOOM_OUT</value>
+				<value name="key" type="string">GP_LPADDOWN</value>
+			</object>
+			<object name="A_SCROLL_DOWN">
+				<value name="action" type="string">A_SCROLL_DOWN</value>
+				<value name="key" type="string">GP_LPADDOWN</value>
+			</object>
+			<object name="A_SCROLL_UP">
+				<value name="action" type="string">A_SCROLL_UP</value>
+				<value name="key" type="string">GP_LPADUP</value>
+			</object>
+			<object name="ACCELERATE">
+				<value name="action" type="string">ACCELERATE</value>
+				<value name="key" type="string">GP_RTRIGGER</value>
+			</object>
+			<object name="AIM">
+				<value name="action" type="string">AIM</value>
+				<value name="key" type="string">GP_LTRIGGER</value>
+			</object>
+			<object name="BTN_A">
+				<value name="action" type="string">BTN_A</value>
+				<value name="key" type="string">GP_RPADDOWN</value>
+			</object>
+			<object name="BTN_B">
+				<value name="action" type="string">BTN_B</value>
+				<value name="key" type="string">GP_RPADRIGHT</value>
+			</object>
+			<object name="BTN_X">
+				<value name="action" type="string">BTN_X</value>
+				<value name="key" type="string">GP_RPADLEFT</value>
+			</object>
+			<object name="BTN_Y">
+				<value name="action" type="string">BTN_Y</value>
+				<value name="key" type="string">GP_RPADUP</value>
+			</object>
+			<object name="DEV_MODIFIER_COMBO_1">
+				<value name="action" type="string">DEV_MODIFIER_COMBO_1</value>
+				<value name="key" type="string">GP_LSHOULDER</value>
+			</object>
+			<object name="DEV_MODIFIER_COMBO_2">
+				<value name="action" type="string">DEV_MODIFIER_COMBO_2</value>
+				<value name="key" type="string">GP_RSHOULDER</value>
+			</object>
+			<object name="DP_DOWN">
+				<value name="action" type="string">DP_DOWN</value>
+				<value name="key" type="string">GP_LPADDOWN</value>
+			</object>
+			<object name="DP_LEFT">
+				<value name="action" type="string">DP_LEFT</value>
+				<value name="key" type="string">GP_LPADLEFT</value>
+			</object>
+			<object name="DP_RIGHT">
+				<value name="action" type="string">DP_RIGHT</value>
+				<value name="key" type="string">GP_LPADRIGHT</value>
+			</object>
+			<object name="DP_UP">
+				<value name="action" type="string">DP_UP</value>
+				<value name="key" type="string">GP_LPADUP</value>
+			</object>
+			<object name="FREEFLY_COMBO1">
+				<value name="action" type="string">FREEFLY_COMBO1</value>
+				<value name="key" type="string">GP_LSHOULDER</value>
+			</object>
+			<object name="FREEFLY_COMBO2">
+				<value name="action" type="string">FREEFLY_COMBO2</value>
+				<value name="key" type="string">GP_LPADLEFT</value>
+			</object>
+			<object name="FREEFLY_MOVE_DOWN">
+				<value name="action" type="string">FREEFLY_MOVE_DOWN</value>
+				<value name="key" type="string">GP_LSHOULDER</value>
+			</object>
+			<object name="FREEFLY_MOVE_UP">
+				<value name="action" type="string">FREEFLY_MOVE_UP</value>
+				<value name="key" type="string">GP_RSHOULDER</value>
+			</object>
+			<object name="FREEFLY_SLOW_DOWN">
+				<value name="action" type="string">FREEFLY_SLOW_DOWN</value>
+				<value name="key" type="string">GP_LTRIGGER</value>
+			</object>
+			<object name="FREEFLY_SPEED_UP">
+				<value name="action" type="string">FREEFLY_SPEED_UP</value>
+				<value name="key" type="string">GP_RTRIGGER</value>
+			</object>
+			<object name="GUI_BACK">
+				<value name="action" type="string">GUI_BACK</value>
+				<value name="key" type="string">GP_RPADRIGHT</value>
+			</object>
+			<object name="GUI_CANCEL">
+				<value name="action" type="string">GUI_CANCEL</value>
+				<value name="key" type="string">GP_RPADRIGHT</value>
+			</object>
+			<object name="GUI_DOWN">
+				<value name="action" type="string">GUI_DOWN</value>
+				<value name="key" type="string">GP_LPADDOWN</value>
+			</object>
+			<object name="GUI_ENTER">
+				<value name="action" type="string">GUI_ENTER</value>
+				<value name="key" type="string">GP_RPADDOWN</value>
+			</object>
+			<object name="GUI_FILTER">
+				<value name="action" type="string">GUI_FILTER</value>
+				<value name="key" type="string">GP_RPADLEFT</value>
+			</object>
+			<object name="GUI_FOCUS">
+				<value name="action" type="string">GUI_FOCUS</value>
+				<value name="key" type="string">GP_LSTICKBUTTON</value>
+			</object>
+			<object name="GUI_KENNEL_RETIRE">
+				<value name="action" type="string">GUI_KENNEL_RETIRE</value>
+				<value name="key" type="string">GP_RPADLEFT</value>
+			</object>
+			<object name="GUI_KENNEL_SHOW_TRAITS">
+				<value name="action" type="string">GUI_KENNEL_SHOW_TRAITS</value>
+				<value name="key" type="string">GP_RPADLEFT</value>
+			</object>
+			<object name="GUI_LEFT">
+				<value name="action" type="string">GUI_LEFT</value>
+				<value name="key" type="string">GP_LPADLEFT</value>
+			</object>
+			<object name="GUI_LSTICK">
+				<value name="action" type="string">GUI_LSTICK</value>
+				<value name="key" type="string">GP_LSTICK</value>
+			</object>
+			<object name="GUI_LSTICK_DOWN">
+				<value name="action" type="string">GUI_LSTICK_DOWN</value>
+				<value name="key" type="string">GP_LSTICKDOWN</value>
+			</object>
+			<object name="GUI_LSTICK_LEFT">
+				<value name="action" type="string">GUI_LSTICK_LEFT</value>
+				<value name="key" type="string">GP_LSTICKLEFT</value>
+			</object>
+			<object name="GUI_LSTICK_RIGHT">
+				<value name="action" type="string">GUI_LSTICK_RIGHT</value>
+				<value name="key" type="string">GP_LSTICKRIGHT</value>
+			</object>
+			<object name="GUI_LSTICK_UP">
+				<value name="action" type="string">GUI_LSTICK_UP</value>
+				<value name="key" type="string">GP_LSTICKUP</value>
+			</object>
+			<object name="GUI_OK">
+				<value name="action" type="string">GUI_OK</value>
+				<value name="key" type="string">GP_RPADDOWN</value>
+			</object>
+			<object name="GUI_OPEN_COMMAND_WHEEL">
+				<value name="action" type="string">GUI_OPEN_COMMAND_WHEEL</value>
+				<value name="key" type="string">GP_LPADDOWN</value>
+			</object>
+			<object name="GUI_PAGE_NEXT">
+				<value name="action" type="string">GUI_PAGE_NEXT</value>
+				<value name="key" type="string">GP_RTRIGGER</value>
+			</object>
+			<object name="GUI_PAGE_PREV">
+				<value name="action" type="string">GUI_PAGE_PREV</value>
+				<value name="key" type="string">GP_LTRIGGER</value>
+			</object>
+			<object name="GUI_PAUSE">
+				<value name="action" type="string">GUI_PAUSE</value>
+				<value name="key" type="string">GP_START</value>
+			</object>
+			<object name="GUI_PDA">
+				<value name="action" type="string">GUI_PDA</value>
+				<value name="key" type="string">GP_BACK</value>
+			</object>
+			<object name="GUI_PRC_ACTIVATE">
+				<value name="action" type="string">GUI_PRC_ACTIVATE</value>
+				<value name="key" type="string">GP_LTRIGGER</value>
+			</object>
+			<object name="GUI_PRC_BACK">
+				<value name="action" type="string">GUI_PRC_BACK</value>
+				<value name="key" type="string">GP_RPADRIGHT</value>
+			</object>
+			<object name="GUI_PRC_DEACTIVATE">
+				<value name="action" type="string">GUI_PRC_DEACTIVATE</value>
+				<value name="key" type="string">GP_LTRIGGER</value>
+			</object>
+			<object name="GUI_PRC_PLAY">
+				<value name="action" type="string">GUI_PRC_PLAY</value>
+				<value name="key" type="string">GP_RPADDOWN</value>
+			</object>
+			<object name="GUI_RECENTER">
+				<value name="action" type="string">GUI_RECENTER</value>
+				<value name="key" type="string">GP_RSTICKBUTTON</value>
+			</object>
+			<object name="GUI_RIGHT">
+				<value name="action" type="string">GUI_RIGHT</value>
+				<value name="key" type="string">GP_LPADRIGHT</value>
+			</object>
+			<object name="GUI_RSTICK">
+				<value name="action" type="string">GUI_RSTICK</value>
+				<value name="key" type="string">GP_RSTICK</value>
+			</object>
+			<object name="GUI_RSTICK_DOWN">
+				<value name="action" type="string">GUI_RSTICK_DOWN</value>
+				<value name="key" type="string">GP_RSTICKDOWN</value>
+			</object>
+			<object name="GUI_RSTICK_LEFT">
+				<value name="action" type="string">GUI_RSTICK_LEFT</value>
+				<value name="key" type="string">GP_RSTICKLEFT</value>
+			</object>
+			<object name="GUI_RSTICK_RIGHT">
+				<value name="action" type="string">GUI_RSTICK_RIGHT</value>
+				<value name="key" type="string">GP_RSTICKRIGHT</value>
+			</object>
+			<object name="GUI_RSTICK_UP">
+				<value name="action" type="string">GUI_RSTICK_UP</value>
+				<value name="key" type="string">GP_RSTICKUP</value>
+			</object>
+			<object name="GUI_SPECIAL_BUTTON">
+				<value name="action" type="string">GUI_SPECIAL_BUTTON</value>
+				<value name="key" type="string">GP_RPADLEFT</value>
+			</object>
+			<object name="GUI_TAB_NEXT">
+				<value name="action" type="string">GUI_TAB_NEXT</value>
+				<value name="key" type="string">GP_RSHOULDER</value>
+			</object>
+			<object name="GUI_TAB_PREV">
+				<value name="action" type="string">GUI_TAB_PREV</value>
+				<value name="key" type="string">GP_LSHOULDER</value>
+			</object>
+			<object name="GUI_UP">
+				<value name="action" type="string">GUI_UP</value>
+				<value name="key" type="string">GP_LPADUP</value>
+			</object>
+			<object name="GUI_USE_BUTTON">
+				<value name="action" type="string">GUI_USE_BUTTON</value>
+				<value name="key" type="string">GP_RPADUP</value>
+			</object>
+			<object name="GUI_ZOOM_IN">
+				<value name="action" type="string">GUI_ZOOM_IN</value>
+				<value name="key" type="string">GP_RSTICKUP</value>
+			</object>
+			<object name="GUI_ZOOM_OUT">
+				<value name="action" type="string">GUI_ZOOM_OUT</value>
+				<value name="key" type="string">GP_RSTICKDOWN</value>
+			</object>
+			<object name="HANDBRAKE">
+				<value name="action" type="string">HANDBRAKE</value>
+				<value name="key" type="string">GP_RPADRIGHT</value>
+			</object>
+			<object name="HEADLAMP">
+				<value name="action" type="string">HEADLAMP</value>
+				<value name="key" type="string">GP_RSTICKBUTTON</value>
+			</object>
+			<object name="HOLD_BREATH">
+				<value name="action" type="string">HOLD_BREATH</value>
+				<value name="key" type="string">GP_LSTICKBUTTON</value>
+			</object>
+			<object name="HOLSTER_WEAPON">
+				<value name="action" type="string">HOLSTER_WEAPON</value>
+				<value name="key" type="string">GP_LSHOULDER</value>
+			</object>
+			<object name="INTERACT">
+				<value name="action" type="string">INTERACT</value>
+				<value name="key" type="string">GP_RPADLEFT</value>
+			</object>
+			<object name="JUMP">
+				<value name="action" type="string">JUMP</value>
+				<value name="key" type="string">GP_RPADDOWN</value>
+			</object>
+			<object name="L1">
+				<value name="action" type="string">L1</value>
+				<value name="key" type="string">GP_LSHOULDER</value>
+			</object>
+			<object name="L2">
+				<value name="action" type="string">L2</value>
+				<value name="key" type="string">GP_LTRIGGER</value>
+			</object>
+			<object name="L3">
+				<value name="action" type="string">L3</value>
+				<value name="key" type="string">GP_LSTICKBUTTON</value>
+			</object>
+			<object name="LOOK_DOWN">
+				<value name="action" type="string">LOOK_DOWN</value>
+				<value name="key" type="string">GP_RSTICKDOWN</value>
+			</object>
+			<object name="LOOK_LEFT">
+				<value name="action" type="string">LOOK_LEFT</value>
+				<value name="key" type="string">GP_RSTICKLEFT</value>
+			</object>
+			<object name="LOOK_RIGHT">
+				<value name="action" type="string">LOOK_RIGHT</value>
+				<value name="key" type="string">GP_RSTICKRIGHT</value>
+			</object>
+			<object name="LOOK_UP">
+				<value name="action" type="string">LOOK_UP</value>
+				<value name="key" type="string">GP_RSTICKUP</value>
+			</object>
+			<object name="MEASURE_TOOL">
+				<value name="action" type="string">MEASURE_TOOL</value>
+				<value name="key" type="string">GP_RPADUP</value>
+			</object>
+			<object name="MOVE_BACKWARD">
+				<value name="action" type="string">MOVE_BACKWARD</value>
+				<value name="key" type="string">GP_LSTICKDOWN</value>
+			</object>
+			<object name="MOVE_BACKWARD_GAMEPAD">
+				<value name="action" type="string">MOVE_BACKWARD_GAMEPAD</value>
+				<value name="key" type="string">GP_LSTICKDOWN</value>
+			</object>
+			<object name="MOVE_FORWARD">
+				<value name="action" type="string">MOVE_FORWARD</value>
+				<value name="key" type="string">GP_LSTICKUP</value>
+			</object>
+			<object name="MOVE_FORWARD_GAMEPAD">
+				<value name="action" type="string">MOVE_FORWARD_GAMEPAD</value>
+				<value name="key" type="string">GP_LSTICKUP</value>
+			</object>
+			<object name="MOVE_LEFT">
+				<value name="action" type="string">MOVE_LEFT</value>
+				<value name="key" type="string">GP_LSTICKLEFT</value>
+			</object>
+			<object name="MOVE_LEFT_GAMEPAD">
+				<value name="action" type="string">MOVE_LEFT_GAMEPAD</value>
+				<value name="key" type="string">GP_LSTICKLEFT</value>
+			</object>
+			<object name="MOVE_RIGHT">
+				<value name="action" type="string">MOVE_RIGHT</value>
+				<value name="key" type="string">GP_LSTICKRIGHT</value>
+			</object>
+			<object name="MOVE_RIGHT_GAMEPAD">
+				<value name="action" type="string">MOVE_RIGHT_GAMEPAD</value>
+				<value name="key" type="string">GP_LSTICKRIGHT</value>
+			</object>
+			<object name="MOVIE_CAM_ATTACH_TO_OBJ">
+				<value name="action" type="string">MOVIE_CAM_ATTACH_TO_OBJ</value>
+				<value name="key" type="string">GP_LSTICKBUTTON</value>
+			</object>
+			<object name="MOVIE_CAM_GAME_SPEED_DEC">
+				<value name="action" type="string">MOVIE_CAM_GAME_SPEED_DEC</value>
+				<value name="key" type="string">GP_RPADDOWN</value>
+			</object>
+			<object name="MOVIE_CAM_GAME_SPEED_INC">
+				<value name="action" type="string">MOVIE_CAM_GAME_SPEED_INC</value>
+				<value name="key" type="string">GP_RPADUP</value>
+			</object>
+			<object name="MOVIE_CAM_PAUSE">
+				<value name="action" type="string">MOVIE_CAM_PAUSE</value>
+				<value name="key" type="string">GP_RPADRIGHT</value>
+			</object>
+			<object name="MOVIE_CAM_SHAKE_AMP_DEC">
+				<value name="action" type="string">MOVIE_CAM_SHAKE_AMP_DEC</value>
+				<value name="key" type="string">GP_LPADDOWN</value>
+			</object>
+			<object name="MOVIE_CAM_SHAKE_AMP_INC">
+				<value name="action" type="string">MOVIE_CAM_SHAKE_AMP_INC</value>
+				<value name="key" type="string">GP_LPADUP</value>
+			</object>
+			<object name="MOVIE_CAM_TOGGLE_MOUNT">
+				<value name="action" type="string">MOVIE_CAM_TOGGLE_MOUNT</value>
+				<value name="key" type="string">GP_LPADLEFT</value>
+			</object>
+			<object name="NEXT_POSE">
+				<value name="action" type="string">NEXT_POSE</value>
+				<value name="key" type="string">GP_RSHOULDER</value>
+			</object>
+			<object name="NEXT_WEAPON">
+				<value name="action" type="string">NEXT_WEAPON</value>
+				<value name="key" type="string">GP_LPADRIGHT</value>
+			</object>
+			<object name="OPEN_PARACHUTE">
+				<value name="action" type="string">OPEN_PARACHUTE</value>
+				<value name="key" type="string">GP_RTRIGGER</value>
+			</object>
+			<object name="PLACE_SWAP_TROPHY">
+				<value name="action" type="string">PLACE_SWAP_TROPHY</value>
+				<value name="key" type="string">GP_RPADLEFT</value>
+			</object>
+			<object name="PREVIOUS_POSE">
+				<value name="action" type="string">PREVIOUS_POSE</value>
+				<value name="key" type="string">GP_LSHOULDER</value>
+			</object>
+			<object name="PRONE">
+				<value name="action" type="string">PRONE</value>
+				<value name="key" type="string">GP_RPADRIGHT</value>
+			</object>
+			<object name="R1">
+				<value name="action" type="string">R1</value>
+				<value name="key" type="string">GP_RSHOULDER</value>
+			</object>
+			<object name="R2">
+				<value name="action" type="string">R2</value>
+				<value name="key" type="string">GP_RTRIGGER</value>
+			</object>
+			<object name="R3">
+				<value name="action" type="string">R3</value>
+				<value name="key" type="string">GP_RSTICKBUTTON</value>
+			</object>
+			<object name="RELOAD">
+				<value name="action" type="string">RELOAD</value>
+				<value name="key" type="string">GP_RPADUP</value>
+			</object>
+			<object name="REMOVE_TROPHY">
+				<value name="action" type="string">REMOVE_TROPHY</value>
+				<value name="key" type="string">GP_RPADUP</value>
+			</object>
+			<object name="REVERSE">
+				<value name="action" type="string">REVERSE</value>
+				<value name="key" type="string">GP_LTRIGGER</value>
+			</object>
+			<object name="ROTATE_PLATFORM_LEFT">
+				<value name="action" type="string">ROTATE_PLATFORM_LEFT</value>
+				<value name="key" type="string">GP_LTRIGGER</value>
+			</object>
+			<object name="ROTATE_PLATFORM_RIGHT">
+				<value name="action" type="string">ROTATE_PLATFORM_RIGHT</value>
+				<value name="key" type="string">GP_RTRIGGER</value>
+			</object>
+			<object name="SELECT">
+				<value name="action" type="string">SELECT</value>
+				<value name="key" type="string">GP_BACK</value>
+			</object>
+			<object name="SELECT_ITEM_CONFIRM">
+				<value name="action" type="string">SELECT_ITEM_CONFIRM</value>
+				<value name="key" type="string">GP_RPADDOWN</value>
+			</object>
+			<object name="SELECT_ITEM_HIDE">
+				<value name="action" type="string">SELECT_ITEM_HIDE</value>
+				<value name="key" type="string">GP_LPADDOWN</value>
+			</object>
+			<object name="SELECT_ITEM_NEXT">
+				<value name="action" type="string">SELECT_ITEM_NEXT</value>
+				<value name="key" type="string">GP_LPADRIGHT</value>
+			</object>
+			<object name="SELECT_ITEM_PREV">
+				<value name="action" type="string">SELECT_ITEM_PREV</value>
+				<value name="key" type="string">GP_LPADLEFT</value>
+			</object>
+			<object name="SELECT_ITEM_SHOW">
+				<value name="action" type="string">SELECT_ITEM_SHOW</value>
+				<value name="key" type="string">GP_LPADUP</value>
+			</object>
+			<object name="SKIP_CUTSCENE">
+				<value name="action" type="string">SKIP_CUTSCENE</value>
+				<value name="key" type="string">GP_RPADRIGHT</value>
+			</object>
+			<object name="START">
+				<value name="action" type="string">START</value>
+				<value name="key" type="string">GP_START</value>
+			</object>
+			<object name="SWITCH_TROPHY_LODGE_EDITING_MODE">
+				<value name="action" type="string">SWITCH_TROPHY_LODGE_EDITING_MODE</value>
+				<value name="key" type="string">GP_LPADUP</value>
+			</object>
+			<object name="TOGGLE_AUTO_MOVE">
+				<value name="action" type="string">TOGGLE_AUTO_MOVE</value>
+				<value name="key" type="string">GP_LSTICKBUTTON</value>
+			</object>
+			<object name="TOGGLE_HUNTERMATE_CAMERA">
+				<value name="action" type="string">TOGGLE_HUNTERMATE_CAMERA</value>
+				<value name="key" type="string">GP_RPADLEFT</value>
+			</object>
+			<object name="TROPHYLODGE_FLIP">
+				<value name="action" type="string">TROPHYLODGE_FLIP</value>
+				<value name="key" type="string">GP_RTRIGGER</value>
+			</object>
+			<object name="TURN_LEFT">
+				<value name="action" type="string">TURN_LEFT</value>
+				<value name="key" type="string">GP_LSTICKLEFT</value>
+			</object>
+			<object name="TURN_RIGHT">
+				<value name="action" type="string">TURN_RIGHT</value>
+				<value name="key" type="string">GP_LSTICKRIGHT</value>
+			</object>
+			<object name="USE_SKILL">
+				<value name="action" type="string">USE_SKILL</value>
+				<value name="key" type="string">GP_RSHOULDER</value>
+			</object>
+			<object name="VEHICLE_CAM">
+				<value name="action" type="string">VEHICLE_CAM</value>
+				<value name="key" type="string">GP_LPADDOWN</value>
+			</object>
+			<object name="WHISTLE">
+				<value name="action" type="string">WHISTLE</value>
+				<value name="key" type="string">GP_RSHOULDER</value>
+			</object>
+			<object name="WIELD_HUNTERMATE">
+				<value name="action" type="string">WIELD_HUNTERMATE</value>
+				<value name="key" type="string">GP_LSHOULDER</value>
+			</object>
+			<object id="00EA9AB0">
+				<value name="action" type="string">A_GUI_WEAPON_WHEEL_CANCEL</value>
+				<value name="key" type="string">GP_RPADRIGHT</value>
+			</object>
+			<object id="09B88953">
+				<value name="action" type="string">PREV_WEAPON</value>
+				<value name="key" type="string">GP_LPADLEFT</value>
+			</object>
+			<object id="0F6E1CDF">
+				<value name="action" type="string">KENNEL_RENAME</value>
+				<value name="key" type="string">GP_RPADUP</value>
+			</object>
+			<object id="12F83646">
+				<value name="action" type="string">A_GUI_OPEN_WEAPON_WHEEL</value>
+				<value name="key" type="string">GP_LPADUP</value>
+			</object>
+			<object id="5D1B2AAC">
+				<value name="action" type="string">A_GUI_WEAPON_WHEEL_CHANGE_SCOPE</value>
+				<value name="key" type="string">GP_RSHOULDER</value>
+			</object>
+			<object id="5FD0FA56">
+				<value name="action" type="string">A_GUI_WEAPON_WHEEL_CHANGE_AMMO</value>
+				<value name="key" type="string">GP_LSHOULDER</value>
+			</object>
+			<object id="6C306C82">
+				<value name="action" type="string">OPEN_WINGSUIT</value>
+				<value name="key" type="string">GP_LPADRIGHT</value>
+			</object>
+			<object id="6E6527F4">
+				<value name="action" type="string">RUN_TOGGLE</value>
+				<value name="key" type="string">GP_LSTICKBUTTON</value>
+			</object>
+			<object id="77E6A57E">
+				<value name="action" type="string">A_GUI_COMMAND_WHEEL_NEXT_PAGE</value>
+				<value name="key" type="string">GP_RSHOULDER</value>
+			</object>
+			<object id="8800851E">
+				<value name="action" type="string">FIRE_RIGHT</value>
+				<value name="key" type="string">GP_RTRIGGER</value>
+			</object>
+			<object id="9274C792">
+				<value name="action" type="string">DEBUG_DECREE</value>
+				<value name="key" type="string">GP_LTRIGGER</value>
+			</object>
+			<object id="BF4EA30F">
+				<value name="action" type="string">A_GUI_BUY_MISSING_ITEM</value>
+				<value name="key" type="string">GP_RPADUP</value>
+			</object>
+			<object id="CBAF33E9">
+				<value name="action" type="string">A_GUI_COMMAND_WHEEL_PREV_PAGE</value>
+				<value name="key" type="string">GP_LSHOULDER</value>
+			</object>
+			<object id="D6E8F158">
+				<value name="action" type="string">A_GUI_MANUAL_SAVE_LOADOUT</value>
+				<value name="key" type="string">GP_RPADLEFT</value>
+			</object>
+			<object id="E45C33F0">
+				<value name="action" type="string">DEBUG_INCREE</value>
+				<value name="key" type="string">GP_RTRIGGER</value>
+			</object>
+			<object id="EE4FD3B1">
+				<value name="action" type="string">A_GUI_CUSTOMIZE_SKIN</value>
+				<value name="key" type="string">GP_RPADUP</value>
+			</object>
+			<object id="F816BD33">
+				<value name="action" type="string">CROUCH</value>
+				<value name="key" type="string">GP_RPADRIGHT</value>
+			</object>
+		</object>
+	</object>
+</container>
