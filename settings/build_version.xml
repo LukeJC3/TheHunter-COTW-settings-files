@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<container extension=".bin" format="RTPC" endian="Little">
+	<object name="root">
+		<object id="31326582">
+			<value name="date" type="string"></value>
+			<value name="major" type="int">0</value>
+			<value name="minor" type="int">0</value>
+			<value name="time" type="string"></value>
+			<value id="3171FC53" type="int">0</value>
+			<value id="D008FAAD" type="string"></value>
+			<value id="F0743B91" type="int">0</value>
+		</object>
+	</object>
+</container>

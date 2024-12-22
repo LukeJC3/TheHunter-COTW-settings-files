@@ -1,0 +1,116 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<container extension=".bin" format="RTPC" endian="Little">
+	<object name="root">
+		<object id="68193B83">
+			<value id="04915C04" type="float">0.45</value>
+			<value id="32A1013D" type="float">0.35</value>
+			<value id="35AC7CFB" type="float">1</value>
+			<value id="48D372F8" type="float">0</value>
+			<value id="5E80F270" type="float">2</value>
+			<value id="60BDF984" type="float">0.2</value>
+			<value id="694866DC" type="float">0.35</value>
+			<value id="8EF1FF36" type="float">1.7</value>
+			<value id="98399CCC" type="float">1.7</value>
+			<value id="CD85C2C1" type="float">2</value>
+			<value id="E18BFC45" type="float">0.35</value>
+		</object>
+		<object id="8C04CA47">
+			<object name="alligator">
+				<value name="length" type="float">2</value>
+				<value name="radius" type="float">0.3</value>
+				<value id="17803B49" type="float">0.4</value>
+				<value id="1A96179A" type="float">0.5</value>
+				<value id="426E419D" type="float">0.3</value>
+				<value id="4510AEDE" type="float">0.4</value>
+				<value id="9E19C4A8" type="float">0.8</value>
+			</object>
+			<object name="dog_sit">
+				<value name="length" type="float">0.3</value>
+				<value name="radius" type="float">0.2</value>
+				<value id="17803B49" type="float">1.6</value>
+				<value id="1A96179A" type="float">0.3</value>
+				<value id="426E419D" type="float">0.2</value>
+				<value id="4510AEDE" type="float">2.2</value>
+				<value id="9E19C4A8" type="float">0.1</value>
+			</object>
+			<object name="large">
+				<value name="length" type="float">1.6</value>
+				<value name="radius" type="float">0.3</value>
+				<value id="1A96179A" type="float">0.3</value>
+				<value id="426E419D" type="float">0.3</value>
+				<value id="9E19C4A8" type="float">0.7</value>
+			</object>
+			<object name="medium">
+				<value name="length" type="float">1.2</value>
+				<value name="radius" type="float">0.2</value>
+				<value id="1A96179A" type="float">0.3</value>
+				<value id="426E419D" type="float">0.3</value>
+				<value id="9E19C4A8" type="float">0.7</value>
+			</object>
+			<object name="small">
+				<value name="length" type="float">0.8</value>
+				<value name="radius" type="float">0.1</value>
+				<value id="1A96179A" type="float">0.2</value>
+				<value id="426E419D" type="float">0.3</value>
+				<value id="9E19C4A8" type="float">0.1</value>
+			</object>
+			<object id="0E6C42C2">
+				<value name="length" type="float">0.3</value>
+				<value name="radius" type="float">0.1</value>
+				<value id="1A96179A" type="float">0.05</value>
+				<value id="426E419D" type="float">0.3</value>
+				<value id="9E19C4A8" type="float">0.1</value>
+			</object>
+			<object id="27D5E052">
+				<value name="length" type="float">0.5</value>
+				<value name="radius" type="float">0.2</value>
+				<value id="17803B49" type="float">1.2</value>
+				<value id="1A96179A" type="float">0.1</value>
+				<value id="426E419D" type="float">0.1</value>
+				<value id="4510AEDE" type="float">1.8</value>
+				<value id="9E19C4A8" type="float">0.1</value>
+			</object>
+			<object id="2BDFF343">
+				<value name="length" type="float">2.8</value>
+				<value name="radius" type="float">0.3</value>
+				<value id="1A96179A" type="float">0.7</value>
+				<value id="426E419D" type="float">0.5</value>
+				<value id="9E19C4A8" type="float">1.5</value>
+			</object>
+			<object id="718749A4">
+				<value name="length" type="float">0.55</value>
+				<value name="radius" type="float">0.2</value>
+				<value id="17803B49" type="float">2</value>
+				<value id="1A96179A" type="float">0.2</value>
+				<value id="426E419D" type="float">0.15</value>
+				<value id="4510AEDE" type="float">2</value>
+				<value id="9E19C4A8" type="float">0.1</value>
+			</object>
+			<object id="86303D87">
+				<value name="length" type="float">0.8</value>
+				<value name="radius" type="float">0.3</value>
+				<value id="1A96179A" type="float">0.3</value>
+				<value id="426E419D" type="float">0.3</value>
+				<value id="9E19C4A8" type="float">0.05</value>
+			</object>
+			<object id="9D88D29E">
+				<value name="length" type="float">2</value>
+				<value name="radius" type="float">0.3</value>
+				<value id="17803B49" type="float">0.3</value>
+				<value id="1A96179A" type="float">0.5</value>
+				<value id="426E419D" type="float">0.3</value>
+				<value id="4510AEDE" type="float">0.3</value>
+				<value id="9E19C4A8" type="float">1.4</value>
+			</object>
+			<object id="FDA82292">
+				<value name="length" type="float">0.8</value>
+				<value name="radius" type="float">0.2</value>
+				<value id="17803B49" type="float">1.6</value>
+				<value id="1A96179A" type="float">0.3</value>
+				<value id="426E419D" type="float">0.3</value>
+				<value id="4510AEDE" type="float">2.2</value>
+				<value id="9E19C4A8" type="float">0.7</value>
+			</object>
+		</object>
+	</object>
+</container>

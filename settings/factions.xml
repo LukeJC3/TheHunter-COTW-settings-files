@@ -1,0 +1,75 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<container extension=".bin" format="RTPC" endian="Little">
+	<object name="root">
+		<object name="factions">
+			<object id="0B0B3901">
+				<value name="id" type="int">2</value>
+				<value name="name" type="string">Predator</value>
+				<object id="50347169">
+					<value name="Critter" type="int">-1031211724</value>
+					<value name="Dog" type="int">-1031211724</value>
+					<value name="Elmer" type="int">1</value>
+					<value name="Prey" type="int">2</value>
+				</object>
+			</object>
+			<object id="0FFE9584">
+				<value name="id" type="int">0</value>
+				<value name="name" type="string">Elmer</value>
+				<object id="50347169">
+					<value name="Critter" type="int">1</value>
+					<value name="Deer" type="int">1</value>
+					<value name="Dog" type="int">0</value>
+					<value name="Elmer" type="int">0</value>
+					<value name="Predator" type="int">1</value>
+				</object>
+			</object>
+			<object id="1E06DD22">
+				<value name="id" type="int">6</value>
+				<value name="name" type="string">SmallPredator</value>
+				<object id="50347169">
+					<value name="Critter" type="int">-1031211724</value>
+					<value name="Dog" type="int">1</value>
+					<value name="Elmer" type="int">1</value>
+					<value name="Prey" type="int">-1031211724</value>
+				</object>
+			</object>
+			<object id="3AC3A105">
+				<value name="id" type="int">5</value>
+				<value name="name" type="string">Critter</value>
+				<object id="50347169">
+					<value name="Dog" type="int">1</value>
+					<value name="Elmer" type="int">1</value>
+					<value name="Predator" type="int">1</value>
+					<value name="SmallPredator" type="int">1</value>
+				</object>
+			</object>
+			<object id="4B97823F">
+				<value name="id" type="int">4</value>
+				<value name="name" type="string">Dog</value>
+				<object id="50347169">
+					<value name="Critter" type="int">-1031211724</value>
+					<value name="Deer" type="int">-1031211724</value>
+					<value name="Predator" type="int">1</value>
+				</object>
+			</object>
+			<object id="60B3242E">
+				<value name="id" type="int">1</value>
+				<value name="name" type="string">Deer</value>
+				<object id="50347169">
+					<value name="Dog" type="int">1</value>
+					<value name="Elmer" type="int">1</value>
+					<value name="Predator" type="int">1</value>
+				</object>
+			</object>
+			<object id="EDFF0EB0">
+				<value name="id" type="int">3</value>
+				<value name="name" type="string">Prey</value>
+				<object id="50347169">
+					<value name="Dog" type="int">1</value>
+					<value name="Elmer" type="int">1</value>
+					<value name="Predator" type="int">1</value>
+				</object>
+			</object>
+		</object>
+	</object>
+</container>
