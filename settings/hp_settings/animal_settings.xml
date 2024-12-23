@@ -1,0 +1,42 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<container extension=".bin" format="RTPC" endian="Little">
+	<object name="root">
+		<value name="maximum_pathfinding_distance" type="float">3072</value>
+		<value id="0502C83A" type="float">1</value>
+		<value id="1C38A8F3" type="float">60</value>
+		<value id="243B5744" type="int">1</value>
+		<value id="2CC82873" type="float">1</value>
+		<value id="3727D06E" type="float">120</value>
+		<value id="3D7FFEF4" type="int">500</value>
+		<value id="41BDE9A1" type="float">2.5</value>
+		<value id="434968FB" type="int">2</value>
+		<value id="477C93BD" type="float">1</value>
+		<value id="480F0967" type="float">2.5</value>
+		<value id="4B7CD451" type="float">1</value>
+		<value id="5B51D3C6" type="float">0.5</value>
+		<value id="5C42AACA" type="float">2</value>
+		<value id="5D0A6CC1" type="float">1</value>
+		<value id="6B1B0A8E" type="float">0.15</value>
+		<value id="741A0199" type="float">240</value>
+		<value id="7760A50C" type="int">500</value>
+		<value id="7FA77752" type="float">1024</value>
+		<value id="967AE3F5" type="float">0.25</value>
+		<value id="97B3E3C7" type="float">12</value>
+		<value id="97FC30F0" type="float">0.7</value>
+		<value id="A405304F" type="float">0.05</value>
+		<value id="B0B6C0D8" type="float">60</value>
+		<value id="CFD53E0E" type="float">0.05</value>
+		<value id="D39CEFBC" type="float">0.5</value>
+		<value id="EFFD5DE0" type="float">0.1</value>
+		<object id="323092C2">
+			<value id="1171721F" type="int">1000</value>
+			<value id="52369295" type="float">1024</value>
+			<value id="6875116F" type="float">896</value>
+			<value id="87232D3A" type="int">300</value>
+			<value id="A2236E15" type="int">300</value>
+			<value id="B9A9E258" type="int">5</value>
+			<value id="DD92918E" type="int">700</value>
+			<value id="EDD7A208" type="int">300</value>
+		</object>
+	</object>
+</container>
