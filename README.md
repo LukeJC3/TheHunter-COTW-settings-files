@@ -2,6 +2,7 @@
 Settings files from TheHunter: Call of the wild as XMLs
 
 ##Introduction
+
 Settings files in Avalanche Studios titles are responsible for fundamental functions, like listing spawnable entities and having basic settings for a bunch of things
 However, they come as .bin files, a custom format you can't just edit like a text file and unlike Just Cause 3 and 4, TheHunter COTW has no tool to unpack them to xml, which would let you easily edit them without a hex editor or other tools
 
