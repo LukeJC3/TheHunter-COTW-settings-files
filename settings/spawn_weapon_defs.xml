@@ -1,703 +1,703 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <container extension=".bin" format="RTPC" endian="Little">
 	<object name="root">
-		<object id="83647B76">
-			<object id="0B621FB6">
+		<object name="spawn_system">
+			<object name="resource_definitions">
 				<object name="equipment_weapon_ba_airrifle_45_01">
 					<value name="debug" type="string">Weapon</value>
+					<value name="desc" type="string">equipment_weapon_ba_airrifle_45_01</value>
 					<value name="entity" type="string">editor\entities\hp_weapons\weapon_rifles_01\equipment_weapon_ba_airrifle_45_01.ee</value>
 					<value name="tags" type="string">equipment_weapon_ba_airrifle_45_01,rifle,weapon</value>
-					<value id="F71C2A21" type="string">equipment_weapon_ba_airrifle_45_01</value>
 				</object>
 				<object name="equipment_weapon_ba_rifle_22_250_01">
 					<value name="debug" type="string">Weapon</value>
+					<value name="desc" type="string">equipment_weapon_ba_rifle_22_250_01</value>
 					<value name="entity" type="string">editor\entities\hp_weapons\weapon_rifles_01\equipment_weapon_ba_rifle_22_250_01.ee</value>
 					<value name="tags" type="string">equipment_weapon_ba_rifle_22_250_01,rifle,weapon</value>
-					<value id="F71C2A21" type="string">equipment_weapon_ba_rifle_22_250_01</value>
 				</object>
 				<object name="equipment_weapon_ba_rifle_223_01">
 					<value name="debug" type="string">Weapon</value>
+					<value name="desc" type="string">equipment_weapon_ba_rifle_223_01</value>
 					<value name="entity" type="string">editor\entities\hp_weapons\weapon_rifles_01\equipment_weapon_ba_rifle_223_01.ee</value>
 					<value name="tags" type="string">equipment_weapon_ba_rifle_223_01,rifle,weapon</value>
-					<value id="F71C2A21" type="string">equipment_weapon_ba_rifle_223_01</value>
 				</object>
 				<object name="equipment_weapon_ba_rifle_22h_01">
 					<value name="debug" type="string">Weapon</value>
+					<value name="desc" type="string">equipment_weapon_ba_rifle_22h_01</value>
 					<value name="entity" type="string">editor\entities\hp_weapons\weapon_rifles_01\equipment_weapon_ba_rifle_22h_01.ee</value>
 					<value name="tags" type="string">equipment_weapon_ba_rifle_22h_01,rifle,weapon</value>
-					<value id="F71C2A21" type="string">equipment_weapon_ba_rifle_22h_01</value>
 				</object>
 				<object name="equipment_weapon_ba_rifle_22h_02">
 					<value name="debug" type="string">Weapon</value>
+					<value name="desc" type="string">equipment_weapon_ba_rifle_22h_02</value>
 					<value name="entity" type="string">editor\entities\hp_weapons\weapon_rifles_01\equipment_weapon_ba_rifle_22h_02.ee</value>
 					<value name="tags" type="string">equipment_weapon_ba_rifle_22h_02,rifle,weapon</value>
-					<value id="F71C2A21" type="string">equipment_weapon_ba_rifle_22h_02</value>
 				</object>
 				<object name="equipment_weapon_ba_rifle_22h_03">
 					<value name="debug" type="string">Weapon</value>
+					<value name="desc" type="string">equipment_weapon_ba_rifle_22h_03</value>
 					<value name="entity" type="string">editor\entities\hp_weapons\weapon_rifles_01\equipment_weapon_ba_rifle_22h_03.ee</value>
 					<value name="tags" type="string">equipment_weapon_ba_rifle_22h_03,rifle,weapon</value>
-					<value id="F71C2A21" type="string">equipment_weapon_ba_rifle_22h_03</value>
 				</object>
 				<object name="equipment_weapon_ba_rifle_243_01">
 					<value name="debug" type="string">Weapon</value>
+					<value name="desc" type="string">equipment_weapon_ba_rifle_243_01</value>
 					<value name="entity" type="string">editor\entities\hp_weapons\weapon_rifles_01\equipment_weapon_ba_rifle_243_01.ee</value>
 					<value name="tags" type="string">equipment_weapon_ba_rifle_243_01,rifle,weapon</value>
-					<value id="F71C2A21" type="string">equipment_weapon_ba_rifle_243_01</value>
 				</object>
 				<object name="equipment_weapon_ba_rifle_270_01">
 					<value name="debug" type="string">Weapon</value>
+					<value name="desc" type="string">equipment_weapon_ba_rifle_270_01</value>
 					<value name="entity" type="string">editor\entities\hp_weapons\weapon_rifles_01\equipment_weapon_ba_rifle_270_01.ee</value>
 					<value name="tags" type="string">equipment_weapon_ba_rifle_270_01,rifle,weapon</value>
-					<value id="F71C2A21" type="string">equipment_weapon_ba_rifle_270_01</value>
 				</object>
 				<object name="equipment_weapon_ba_rifle_270_02">
 					<value name="debug" type="string">Weapon</value>
+					<value name="desc" type="string">equipment_weapon_ba_rifle_270_02</value>
 					<value name="entity" type="string">editor\entities\hp_weapons\weapon_rifles_01\equipment_weapon_ba_rifle_270_02.ee</value>
 					<value name="tags" type="string">equipment_weapon_ba_rifle_270_02,rifle,weapon</value>
-					<value id="F71C2A21" type="string">equipment_weapon_ba_rifle_270_02</value>
 				</object>
 				<object name="equipment_weapon_ba_rifle_270_03">
 					<value name="debug" type="string">Weapon</value>
+					<value name="desc" type="string">equipment_weapon_ba_rifle_270_03</value>
 					<value name="entity" type="string">editor\entities\hp_weapons\weapon_rifles_01\equipment_weapon_ba_rifle_270_03.ee</value>
 					<value name="tags" type="string">equipment_weapon_ba_rifle_270_03,rifle,weapon</value>
-					<value id="F71C2A21" type="string">equipment_weapon_ba_rifle_270_03</value>
 				</object>
 				<object name="equipment_weapon_ba_rifle_300_wby_01">
 					<value name="debug" type="string">Weapon</value>
+					<value name="desc" type="string">equipment_weapon_ba_rifle_300_wby_01</value>
 					<value name="entity" type="string">editor\entities\hp_weapons\weapon_rifles_01\equipment_weapon_ba_rifle_300_wby_01.ee</value>
 					<value name="tags" type="string">equipment_weapon_ba_rifle_300_wby_01,rifle,weapon</value>
-					<value id="F71C2A21" type="string">equipment_weapon_ba_rifle_300_wby_01</value>
 				</object>
 				<object name="equipment_weapon_ba_rifle_300_wby_02">
 					<value name="debug" type="string">Weapon</value>
+					<value name="desc" type="string">equipment_weapon_ba_rifle_300_wby_02</value>
 					<value name="entity" type="string">editor\entities\hp_weapons\weapon_rifles_01\equipment_weapon_ba_rifle_300_wby_02.ee</value>
 					<value name="tags" type="string">equipment_weapon_ba_rifle_300_wby_02,rifle,weapon</value>
-					<value id="F71C2A21" type="string">equipment_weapon_ba_rifle_300_wby_02</value>
 				</object>
 				<object name="equipment_weapon_ba_rifle_300_wby_03">
 					<value name="debug" type="string">Weapon</value>
+					<value name="desc" type="string">equipment_weapon_ba_rifle_300_wby_03</value>
 					<value name="entity" type="string">editor\entities\hp_weapons\weapon_rifles_01\equipment_weapon_ba_rifle_300_wby_03.ee</value>
 					<value name="tags" type="string">equipment_weapon_ba_rifle_300_wby_03,rifle,weapon</value>
-					<value id="F71C2A21" type="string">equipment_weapon_ba_rifle_300_wby_03</value>
 				</object>
 				<object name="equipment_weapon_ba_rifle_300_wby_04">
 					<value name="debug" type="string">Weapon</value>
+					<value name="desc" type="string">equipment_weapon_ba_rifle_300_wby_04</value>
 					<value name="entity" type="string">editor\entities\hp_weapons\weapon_rifles_01\equipment_weapon_ba_rifle_300_wby_04.ee</value>
 					<value name="tags" type="string">equipment_weapon_ba_rifle_300_wby_04,rifle,weapon</value>
-					<value id="F71C2A21" type="string">equipment_weapon_ba_rifle_300_wby_04</value>
 				</object>
 				<object name="equipment_weapon_ba_rifle_3006_01">
 					<value name="debug" type="string">Weapon</value>
+					<value name="desc" type="string">equipment_weapon_ba_rifle_3006_01</value>
 					<value name="entity" type="string">editor\entities\hp_weapons\weapon_rifles_01\equipment_weapon_ba_rifle_3006_01.ee</value>
 					<value name="tags" type="string">equipment_weapon_ba_rifle_3006_01,rifle,weapon</value>
-					<value id="F71C2A21" type="string">equipment_weapon_ba_rifle_3006_01</value>
 				</object>
 				<object name="equipment_weapon_ba_rifle_3006_02">
 					<value name="debug" type="string">Weapon</value>
+					<value name="desc" type="string">equipment_weapon_ba_rifle_3006_02</value>
 					<value name="entity" type="string">editor\entities\hp_weapons\weapon_rifles_01\equipment_weapon_ba_rifle_3006_02.ee</value>
 					<value name="tags" type="string">equipment_weapon_ba_rifle_3006_02,rifle,weapon</value>
-					<value id="F71C2A21" type="string">equipment_weapon_ba_rifle_3006_02</value>
 				</object>
 				<object name="equipment_weapon_ba_rifle_3006_03">
 					<value name="debug" type="string">Weapon</value>
+					<value name="desc" type="string">equipment_weapon_ba_rifle_3006_03</value>
 					<value name="entity" type="string">editor\entities\hp_weapons\weapon_rifles_01\equipment_weapon_ba_rifle_3006_03.ee</value>
 					<value name="tags" type="string">equipment_weapon_ba_rifle_3006_03,rifle,weapon</value>
-					<value id="F71C2A21" type="string">equipment_weapon_ba_rifle_3006_03</value>
 				</object>
 				<object name="equipment_weapon_ba_rifle_303_01">
 					<value name="debug" type="string">Weapon</value>
+					<value name="desc" type="string">equipment_weapon_ba_rifle_303_01</value>
 					<value name="entity" type="string">editor\entities\hp_weapons\weapon_rifles_01\equipment_weapon_ba_rifle_303_01.ee</value>
 					<value name="tags" type="string">equipment_weapon_ba_rifle_303_01,rifle,weapon</value>
-					<value id="F71C2A21" type="string">equipment_weapon_ba_rifle_303_01</value>
 				</object>
 				<object name="equipment_weapon_ba_rifle_303_02">
 					<value name="debug" type="string">Weapon</value>
+					<value name="desc" type="string">equipment_weapon_ba_rifle_303_02</value>
 					<value name="entity" type="string">editor\entities\hp_weapons\weapon_rifles_01\equipment_weapon_ba_rifle_303_02.ee</value>
 					<value name="tags" type="string">equipment_weapon_ba_rifle_303_02,rifle,weapon</value>
-					<value id="F71C2A21" type="string">equipment_weapon_ba_rifle_303_02</value>
 				</object>
 				<object name="equipment_weapon_ba_rifle_303_03">
 					<value name="debug" type="string">Weapon</value>
+					<value name="desc" type="string">equipment_weapon_ba_rifle_303_03</value>
 					<value name="entity" type="string">editor\entities\hp_weapons\weapon_rifles_01\equipment_weapon_ba_rifle_303_03.ee</value>
 					<value name="tags" type="string">equipment_weapon_ba_rifle_303_03,rifle,weapon</value>
-					<value id="F71C2A21" type="string">equipment_weapon_ba_rifle_303_03</value>
 				</object>
 				<object name="equipment_weapon_ba_rifle_308_01">
 					<value name="debug" type="string">Weapon</value>
+					<value name="desc" type="string">equipment_weapon_ba_rifle_308_01</value>
 					<value name="entity" type="string">editor\entities\hp_weapons\weapon_rifles_01\equipment_weapon_ba_rifle_308_01.ee</value>
 					<value name="tags" type="string">equipment_weapon_ba_rifle_308_01,rifle,weapon</value>
-					<value id="F71C2A21" type="string">equipment_weapon_ba_rifle_308_01</value>
 				</object>
 				<object name="equipment_weapon_ba_rifle_338_01">
 					<value name="debug" type="string">Weapon</value>
+					<value name="desc" type="string">equipment_weapon_ba_rifle_338_01</value>
 					<value name="entity" type="string">editor\entities\hp_weapons\weapon_rifles_01\equipment_weapon_ba_rifle_338_01.ee</value>
 					<value name="tags" type="string">equipment_weapon_ba_rifle_338_01,rifle,weapon</value>
-					<value id="F71C2A21" type="string">equipment_weapon_ba_rifle_338_01</value>
 				</object>
 				<object name="equipment_weapon_ba_rifle_6_5mm_01">
 					<value name="debug" type="string">Weapon</value>
+					<value name="desc" type="string">equipment_weapon_ba_rifle_6_5mm_01</value>
 					<value name="entity" type="string">editor\entities\hp_weapons\weapon_rifles_01\equipment_weapon_ba_rifle_6_5mm_01.ee</value>
 					<value name="tags" type="string">equipment_weapon_ba_rifle_6_5mm_01,rifle,weapon</value>
-					<value id="F71C2A21" type="string">equipment_weapon_ba_rifle_6_5mm_01</value>
 				</object>
 				<object name="equipment_weapon_ba_rifle_6_5mm_02">
 					<value name="debug" type="string">Weapon</value>
+					<value name="desc" type="string">equipment_weapon_ba_rifle_6_5mm_02</value>
 					<value name="entity" type="string">editor\entities\hp_weapons\weapon_rifles_01\equipment_weapon_ba_rifle_6_5mm_02.ee</value>
 					<value name="tags" type="string">equipment_weapon_ba_rifle_6_5mm_02,rifle,weapon</value>
-					<value id="F71C2A21" type="string">equipment_weapon_ba_rifle_6_5mm_02</value>
 				</object>
 				<object name="equipment_weapon_ba_rifle_6_5mm_03">
 					<value name="debug" type="string">Weapon</value>
+					<value name="desc" type="string">equipment_weapon_ba_rifle_6_5mm_03</value>
 					<value name="entity" type="string">editor\entities\hp_weapons\weapon_rifles_01\equipment_weapon_ba_rifle_6_5mm_03.ee</value>
 					<value name="tags" type="string">equipment_weapon_ba_rifle_6_5mm_03,rifle,weapon</value>
-					<value id="F71C2A21" type="string">equipment_weapon_ba_rifle_6_5mm_03</value>
 				</object>
 				<object name="equipment_weapon_ba_rifle_7mm_01">
 					<value name="debug" type="string">Weapon</value>
+					<value name="desc" type="string">equipment_weapon_ba_rifle_7mm_01</value>
 					<value name="entity" type="string">editor\entities\hp_weapons\weapon_rifles_01\equipment_weapon_ba_rifle_7mm_01.ee</value>
 					<value name="tags" type="string">equipment_weapon_ba_rifle_7mm_01,rifle,weapon</value>
-					<value id="F71C2A21" type="string">equipment_weapon_ba_rifle_7mm_01</value>
 				</object>
 				<object name="equipment_weapon_ba_rifle_mosin_nagant_01">
 					<value name="debug" type="string">Weapon</value>
+					<value name="desc" type="string">equipment_weapon_ba_rifle_mosin_nagant_01</value>
 					<value name="entity" type="string">editor\entities\hp_weapons\weapon_rifles_01\equipment_weapon_ba_rifle_mosin_nagant_01.ee</value>
 					<value name="tags" type="string">equipment_weapon_ba_rifle_mosin_nagant_01,rifle,weapon</value>
-					<value id="F71C2A21" type="string">equipment_weapon_ba_rifle_mosin_nagant_01</value>
 				</object>
 				<object name="equipment_weapon_ba_rifle_mosin_nagant_02">
 					<value name="debug" type="string">Weapon</value>
+					<value name="desc" type="string">equipment_weapon_ba_rifle_mosin_nagant_02</value>
 					<value name="entity" type="string">editor\entities\hp_weapons\weapon_rifles_01\equipment_weapon_ba_rifle_mosin_nagant_02.ee</value>
 					<value name="tags" type="string">equipment_weapon_ba_rifle_mosin_nagant_02,rifle,weapon</value>
-					<value id="F71C2A21" type="string">equipment_weapon_ba_rifle_mosin_nagant_02</value>
 				</object>
 				<object name="equipment_weapon_ba_rifle_mosin_nagant_03">
 					<value name="debug" type="string">Weapon</value>
+					<value name="desc" type="string">equipment_weapon_ba_rifle_mosin_nagant_03</value>
 					<value name="entity" type="string">editor\entities\hp_weapons\weapon_rifles_01\equipment_weapon_ba_rifle_mosin_nagant_03.ee</value>
 					<value name="tags" type="string">equipment_weapon_ba_rifle_mosin_nagant_03,rifle,weapon</value>
-					<value id="F71C2A21" type="string">equipment_weapon_ba_rifle_mosin_nagant_03</value>
 				</object>
 				<object name="equipment_weapon_caplock_muzzleloader_01">
 					<value name="debug" type="string">Weapon</value>
+					<value name="desc" type="string">equipment_weapon_caplock_muzzleloader_01</value>
 					<value name="entity" type="string">editor\entities\hp_weapons\weapon_rifles_01\equipment_weapon_caplock_muzzleloader_01.ee</value>
 					<value name="tags" type="string">equipment_weapon_caplock_muzzleloader_01,rifle,weapon</value>
-					<value id="F71C2A21" type="string">equipment_weapon_caplock_muzzleloader_01</value>
 				</object>
 				<object name="equipment_weapon_caplock_muzzleloader_02">
 					<value name="debug" type="string">Weapon</value>
+					<value name="desc" type="string">equipment_weapon_caplock_muzzleloader_02</value>
 					<value name="entity" type="string">editor\entities\hp_weapons\weapon_rifles_01\equipment_weapon_caplock_muzzleloader_02.ee</value>
 					<value name="tags" type="string">equipment_weapon_caplock_muzzleloader_02,rifle,weapon</value>
-					<value id="F71C2A21" type="string">equipment_weapon_caplock_muzzleloader_02</value>
 				</object>
 				<object name="equipment_weapon_caplock_muzzleloader_03">
 					<value name="debug" type="string">Weapon</value>
+					<value name="desc" type="string">equipment_weapon_caplock_muzzleloader_03</value>
 					<value name="entity" type="string">editor\entities\hp_weapons\weapon_rifles_01\equipment_weapon_caplock_muzzleloader_03.ee</value>
 					<value name="tags" type="string">equipment_weapon_caplock_muzzleloader_03,rifle,weapon</value>
-					<value id="F71C2A21" type="string">equipment_weapon_caplock_muzzleloader_03</value>
 				</object>
 				<object name="equipment_weapon_compound_bow_60lb_01">
 					<value name="debug" type="string">Weapon</value>
+					<value name="desc" type="string">equipment_weapon_compound_bow_60lb_01</value>
 					<value name="entity" type="string">editor\entities\hp_weapons\weapon_bows_01\equipment_weapon_compound_bow_01.ee</value>
 					<value name="tags" type="string">equipment_weapon_compound_bow_60lb_01,bow,weapon</value>
-					<value id="F71C2A21" type="string">equipment_weapon_compound_bow_60lb_01</value>
 				</object>
 				<object name="equipment_weapon_compound_bow_60lb_02">
 					<value name="debug" type="string">Weapon</value>
+					<value name="desc" type="string">equipment_weapon_compound_bow_60lb_02</value>
 					<value name="entity" type="string">editor\entities\hp_weapons\weapon_bows_01\equipment_weapon_compound_bow_b_01.ee</value>
 					<value name="tags" type="string">equipment_weapon_compound_bow_60lb_02,bow,weapon</value>
-					<value id="F71C2A21" type="string">equipment_weapon_compound_bow_60lb_02</value>
 				</object>
 				<object name="equipment_weapon_compound_bow_70lb_01">
 					<value name="debug" type="string">Weapon</value>
+					<value name="desc" type="string">equipment_weapon_compound_bow_70lb_01</value>
 					<value name="entity" type="string">editor\entities\hp_weapons\weapon_bows_01\equipment_weapon_compound_bow_02.ee</value>
 					<value name="tags" type="string">equipment_weapon_compound_bow_70lb_01,bow,weapon</value>
-					<value id="F71C2A21" type="string">equipment_weapon_compound_bow_70lb_01</value>
 				</object>
 				<object name="equipment_weapon_compound_bow_orpheus_01">
 					<value name="debug" type="string">Weapon</value>
+					<value name="desc" type="string">equipment_weapon_compound_bow_orpheus_01</value>
 					<value name="entity" type="string">editor\entities\hp_weapons\weapon_bows_01\equipment_weapon_compound_bow_orpheus_01.ee</value>
 					<value name="tags" type="string">equipment_weapon_compound_bow_orpheus_01,bow,weapon</value>
-					<value id="F71C2A21" type="string">equipment_weapon_compound_bow_orpheus_01</value>
 				</object>
 				<object name="equipment_weapon_compound_bow_orpheus_02">
 					<value name="debug" type="string">Weapon</value>
+					<value name="desc" type="string">equipment_weapon_compound_bow_orpheus_02</value>
 					<value name="entity" type="string">editor\entities\hp_weapons\weapon_bows_01\equipment_weapon_compound_bow_orpheus_02.ee</value>
 					<value name="tags" type="string">equipment_weapon_compound_bow_orpheus_02,bow,weapon</value>
-					<value id="F71C2A21" type="string">equipment_weapon_compound_bow_orpheus_02</value>
 				</object>
 				<object name="equipment_weapon_compound_bow_orpheus_03">
 					<value name="debug" type="string">Weapon</value>
+					<value name="desc" type="string">equipment_weapon_compound_bow_orpheus_03</value>
 					<value name="entity" type="string">editor\entities\hp_weapons\weapon_bows_01\equipment_weapon_compound_bow_orpheus_03.ee</value>
 					<value name="tags" type="string">equipment_weapon_compound_bow_orpheus_03,bow,weapon</value>
-					<value id="F71C2A21" type="string">equipment_weapon_compound_bow_orpheus_03</value>
 				</object>
 				<object name="equipment_weapon_crossbow_165lb_01">
 					<value name="debug" type="string">Weapon</value>
+					<value name="desc" type="string">equipment_weapon_crossbow_165lb_01</value>
 					<value name="entity" type="string">editor\entities\hp_weapons\weapon_bows_01\equipment_weapon_crossbow_01.ee</value>
 					<value name="tags" type="string">equipment_weapon_crossbow_165lb_01,bow,weapon</value>
-					<value id="F71C2A21" type="string">equipment_weapon_crossbow_165lb_01</value>
 				</object>
 				<object name="equipment_weapon_crossbow_165lb_02">
 					<value name="debug" type="string">Weapon</value>
+					<value name="desc" type="string">equipment_weapon_crossbow_165lb_02</value>
 					<value name="entity" type="string">editor\entities\hp_weapons\weapon_bows_01\equipment_weapon_crossbow_02.ee</value>
 					<value name="tags" type="string">equipment_weapon_crossbow_165lb_02,bow,weapon</value>
-					<value id="F71C2A21" type="string">equipment_weapon_crossbow_165lb_02</value>
 				</object>
 				<object name="equipment_weapon_crossbow_165lb_03">
 					<value name="debug" type="string">Weapon</value>
+					<value name="desc" type="string">equipment_weapon_crossbow_165lb_03</value>
 					<value name="entity" type="string">editor\entities\hp_weapons\weapon_bows_01\equipment_weapon_crossbow_03.ee</value>
 					<value name="tags" type="string">equipment_weapon_crossbow_165lb_03,bow,weapon</value>
-					<value id="F71C2A21" type="string">equipment_weapon_crossbow_165lb_03</value>
 				</object>
 				<object name="equipment_weapon_crossbow_165lb_04">
 					<value name="debug" type="string">Weapon</value>
+					<value name="desc" type="string">equipment_weapon_crossbow_165lb_04</value>
 					<value name="entity" type="string">editor\entities\hp_weapons\weapon_bows_01\equipment_weapon_crossbow_04.ee</value>
 					<value name="tags" type="string">equipment_weapon_crossbow_165lb_04,bow,weapon</value>
-					<value id="F71C2A21" type="string">equipment_weapon_crossbow_165lb_04</value>
 				</object>
 				<object name="equipment_weapon_drilling_combination_01">
 					<value name="debug" type="string">Weapon</value>
+					<value name="desc" type="string">equipment_weapon_drilling_combination_01</value>
 					<value name="entity" type="string">editor\entities\hp_weapons\weapon_shotguns_01\equipment_weapon_drilling_combination_01.ee</value>
 					<value name="tags" type="string">equipment_weapon_drilling_combination_01,shotgun,weapon</value>
-					<value id="F71C2A21" type="string">equipment_weapon_drilling_combination_01</value>
 				</object>
 				<object name="equipment_weapon_drilling_combination_02">
 					<value name="debug" type="string">Weapon</value>
+					<value name="desc" type="string">equipment_weapon_drilling_combination_02</value>
 					<value name="entity" type="string">editor\entities\hp_weapons\weapon_shotguns_01\equipment_weapon_drilling_combination_02.ee</value>
 					<value name="tags" type="string">equipment_weapon_drilling_combination_02,shotgun,weapon</value>
-					<value id="F71C2A21" type="string">equipment_weapon_drilling_combination_02</value>
 				</object>
 				<object name="equipment_weapon_drilling_combination_03">
 					<value name="debug" type="string">Weapon</value>
+					<value name="desc" type="string">equipment_weapon_drilling_combination_03</value>
 					<value name="entity" type="string">editor\entities\hp_weapons\weapon_shotguns_01\equipment_weapon_drilling_combination_03.ee</value>
 					<value name="tags" type="string">equipment_weapon_drilling_combination_03,shotgun,weapon</value>
-					<value id="F71C2A21" type="string">equipment_weapon_drilling_combination_03</value>
 				</object>
 				<object name="equipment_weapon_la_rifle_3030_01">
 					<value name="debug" type="string">Weapon</value>
+					<value name="desc" type="string">equipment_weapon_la_rifle_3030_01</value>
 					<value name="entity" type="string">editor\entities\hp_weapons\weapon_rifles_01\equipment_weapon_la_rifle_3030_01.ee</value>
 					<value name="tags" type="string">equipment_weapon_la_rifle_3030_01,rifle,weapon</value>
-					<value id="F71C2A21" type="string">equipment_weapon_la_rifle_3030_01</value>
 				</object>
 				<object name="equipment_weapon_la_rifle_44_01">
 					<value name="debug" type="string">Weapon</value>
+					<value name="desc" type="string">equipment_weapon_la_rifle_44_01</value>
 					<value name="entity" type="string">editor\entities\hp_weapons\weapon_rifles_01\equipment_weapon_la_rifle_44_01.ee</value>
 					<value name="tags" type="string">equipment_weapon_la_rifle_44_01,rifle,weapon</value>
-					<value id="F71C2A21" type="string">equipment_weapon_la_rifle_44_01</value>
 				</object>
 				<object name="equipment_weapon_la_rifle_4570_01">
 					<value name="debug" type="string">Weapon</value>
+					<value name="desc" type="string">equipment_weapon_la_rifle_4570_01</value>
 					<value name="entity" type="string">editor\entities\hp_weapons\weapon_rifles_01\equipment_weapon_la_rifle_4570_01.ee</value>
 					<value name="tags" type="string">equipment_weapon_la_rifle_4570_01,rifle,weapon</value>
-					<value id="F71C2A21" type="string">equipment_weapon_la_rifle_4570_01</value>
 				</object>
 				<object name="equipment_weapon_la_rifle_577_450_01">
 					<value name="debug" type="string">Weapon</value>
+					<value name="desc" type="string">equipment_weapon_la_rifle_577_450_01</value>
 					<value name="entity" type="string">editor\entities\hp_weapons\weapon_rifles_01\equipment_weapon_la_rifle_577_450_01.ee</value>
 					<value name="tags" type="string">equipment_weapon_la_rifle_577_450_01,rifle,weapon</value>
-					<value id="F71C2A21" type="string">equipment_weapon_la_rifle_577_450_01</value>
 				</object>
 				<object name="equipment_weapon_la_shotgun_1887_01">
 					<value name="debug" type="string">Weapon</value>
+					<value name="desc" type="string">equipment_weapon_la_shotgun_1887_01</value>
 					<value name="entity" type="string">editor\entities\hp_weapons\weapon_shotguns_01\equipment_weapon_la_shotgun_1887_01.ee</value>
 					<value name="tags" type="string">equipment_weapon_la_shotgun_1887_01,shotgun,weapon</value>
-					<value id="F71C2A21" type="string">equipment_weapon_la_shotgun_1887_01</value>
 				</object>
 				<object name="equipment_weapon_la_shotgun_1887_02">
 					<value name="debug" type="string">Weapon</value>
+					<value name="desc" type="string">equipment_weapon_la_shotgun_1887_02</value>
 					<value name="entity" type="string">editor\entities\hp_weapons\weapon_shotguns_01\equipment_weapon_la_shotgun_1887_02.ee</value>
 					<value name="tags" type="string">equipment_weapon_la_shotgun_1887_02,shotgun,weapon</value>
-					<value id="F71C2A21" type="string">equipment_weapon_la_shotgun_1887_02</value>
 				</object>
 				<object name="equipment_weapon_la_shotgun_1887_03">
 					<value name="debug" type="string">Weapon</value>
+					<value name="desc" type="string">equipment_weapon_la_shotgun_1887_03</value>
 					<value name="entity" type="string">editor\entities\hp_weapons\weapon_shotguns_01\equipment_weapon_la_shotgun_1887_03.ee</value>
 					<value name="tags" type="string">equipment_weapon_la_shotgun_1887_03,shotgun,weapon</value>
-					<value id="F71C2A21" type="string">equipment_weapon_la_shotgun_1887_03</value>
 				</object>
 				<object name="equipment_weapon_longbow_01">
 					<value name="debug" type="string">Weapon</value>
+					<value name="desc" type="string">equipment_weapon_longbow_01</value>
 					<value name="entity" type="string">editor\entities\hp_weapons\weapon_bows_01\equipment_weapon_longbow_01.ee</value>
 					<value name="tags" type="string">equipment_weapon_longbow_01,bow,weapon</value>
-					<value id="F71C2A21" type="string">equipment_weapon_longbow_01</value>
 				</object>
 				<object name="equipment_weapon_longbow_02">
 					<value name="debug" type="string">Weapon</value>
+					<value name="desc" type="string">equipment_weapon_longbow_02</value>
 					<value name="entity" type="string">editor\entities\hp_weapons\weapon_bows_01\equipment_weapon_longbow_02.ee</value>
 					<value name="tags" type="string">equipment_weapon_longbow_02,bow,weapon</value>
-					<value id="F71C2A21" type="string">equipment_weapon_longbow_02</value>
 				</object>
 				<object name="equipment_weapon_longbow_03">
 					<value name="debug" type="string">Weapon</value>
+					<value name="desc" type="string">equipment_weapon_longbow_03</value>
 					<value name="entity" type="string">editor\entities\hp_weapons\weapon_bows_01\equipment_weapon_longbow_03.ee</value>
 					<value name="tags" type="string">equipment_weapon_longbow_03,bow,weapon</value>
-					<value id="F71C2A21" type="string">equipment_weapon_longbow_03</value>
 				</object>
 				<object name="equipment_weapon_longbow_04">
 					<value name="debug" type="string">Weapon</value>
+					<value name="desc" type="string">equipment_weapon_longbow_04</value>
 					<value name="entity" type="string">editor\entities\hp_weapons\weapon_bows_01\equipment_weapon_longbow_04.ee</value>
 					<value name="tags" type="string">equipment_weapon_longbow_04,bow,weapon</value>
-					<value id="F71C2A21" type="string">equipment_weapon_longbow_04</value>
 				</object>
 				<object name="equipment_weapon_muzzleloader_50_01">
 					<value name="debug" type="string">Weapon</value>
+					<value name="desc" type="string">equipment_weapon_muzzleloader_50_01</value>
 					<value name="entity" type="string">editor\entities\hp_weapons\weapon_rifles_01\equipment_weapon_muzzleloader_50_01.ee</value>
 					<value name="tags" type="string">equipment_weapon_muzzleloader_50_01,rifle,weapon</value>
-					<value id="F71C2A21" type="string">equipment_weapon_muzzleloader_50_01</value>
 				</object>
 				<object name="equipment_weapon_ou_shotgun_12ga_01">
 					<value name="debug" type="string">Weapon</value>
+					<value name="desc" type="string">equipment_weapon_ou_shotgun_12ga_01</value>
 					<value name="entity" type="string">editor\entities\hp_weapons\weapon_shotguns_01\equipment_weapon_ou_shotgun_12ga_01.ee</value>
 					<value name="tags" type="string">equipment_weapon_ou_shotgun_12ga_01,shotgun,weapon</value>
-					<value id="F71C2A21" type="string">equipment_weapon_ou_shotgun_12ga_01</value>
 				</object>
 				<object name="equipment_weapon_ou_shotgun_12ga_02">
 					<value name="debug" type="string">Weapon</value>
+					<value name="desc" type="string">equipment_weapon_ou_shotgun_12ga_02</value>
 					<value name="entity" type="string">editor\entities\hp_weapons\weapon_shotguns_01\equipment_weapon_ou_shotgun_12ga_02.ee</value>
 					<value name="tags" type="string">equipment_weapon_ou_shotgun_12ga_02,shotgun,weapon</value>
-					<value id="F71C2A21" type="string">equipment_weapon_ou_shotgun_12ga_02</value>
 				</object>
 				<object name="equipment_weapon_pa_shotgun_12ga_01">
 					<value name="debug" type="string">Weapon</value>
+					<value name="desc" type="string">equipment_weapon_pa_shotgun_12ga_01</value>
 					<value name="entity" type="string">editor\entities\hp_weapons\weapon_shotguns_01\equipment_weapon_pa_shotgun_12ga_01.ee</value>
 					<value name="tags" type="string">equipment_weapon_pa_shotgun_12ga_01,shotgun,weapon</value>
-					<value id="F71C2A21" type="string">equipment_weapon_pa_shotgun_12ga_01</value>
 				</object>
 				<object name="equipment_weapon_pa_shotgun_1897_16ga_01">
 					<value name="debug" type="string">Weapon</value>
+					<value name="desc" type="string">equipment_weapon_pa_shotgun_1897_16ga_01</value>
 					<value name="entity" type="string">editor\entities\hp_weapons\weapon_shotguns_01\equipment_weapon_pa_shotgun_1897_16ga_01.ee</value>
 					<value name="tags" type="string">equipment_weapon_pa_shotgun_1897_16ga_01,shotgun,weapon</value>
-					<value id="F71C2A21" type="string">equipment_weapon_pa_shotgun_1897_16ga_01</value>
 				</object>
 				<object name="equipment_weapon_pa_shotgun_1897_16ga_02">
 					<value name="debug" type="string">Weapon</value>
+					<value name="desc" type="string">equipment_weapon_pa_shotgun_1897_16ga_02</value>
 					<value name="entity" type="string">editor\entities\hp_weapons\weapon_shotguns_01\equipment_weapon_pa_shotgun_1897_16ga_02.ee</value>
 					<value name="tags" type="string">equipment_weapon_pa_shotgun_1897_16ga_02,shotgun,weapon</value>
-					<value id="F71C2A21" type="string">equipment_weapon_pa_shotgun_1897_16ga_02</value>
 				</object>
 				<object name="equipment_weapon_pa_shotgun_1897_16ga_03">
 					<value name="debug" type="string">Weapon</value>
+					<value name="desc" type="string">equipment_weapon_pa_shotgun_1897_16ga_03</value>
 					<value name="entity" type="string">editor\entities\hp_weapons\weapon_shotguns_01\equipment_weapon_pa_shotgun_1897_16ga_03.ee</value>
 					<value name="tags" type="string">equipment_weapon_pa_shotgun_1897_16ga_03,shotgun,weapon</value>
-					<value id="F71C2A21" type="string">equipment_weapon_pa_shotgun_1897_16ga_03</value>
 				</object>
 				<object name="equipment_weapon_pistol_10mm_01">
 					<value name="debug" type="string">Weapon</value>
+					<value name="desc" type="string">equipment_weapon_pistol_10mm_01</value>
 					<value name="entity" type="string">editor\entities\hp_weapons\weapon_handguns_01\equipment_weapon_pistol_10mm_01.ee</value>
 					<value name="tags" type="string">equipment_weapon_pistol_10mm_01,rifle,weapon</value>
-					<value id="F71C2A21" type="string">equipment_weapon_pistol_10mm_01</value>
 				</object>
 				<object name="equipment_weapon_pistol_10mm_02">
 					<value name="debug" type="string">Weapon</value>
+					<value name="desc" type="string">equipment_weapon_pistol_10mm_02</value>
 					<value name="entity" type="string">editor\entities\hp_weapons\weapon_handguns_01\equipment_weapon_pistol_10mm_02.ee</value>
 					<value name="tags" type="string">equipment_weapon_pistol_10mm_02,rifle,weapon</value>
-					<value id="F71C2A21" type="string">equipment_weapon_pistol_10mm_02</value>
 				</object>
 				<object name="equipment_weapon_pistol_sa_22_01">
 					<value name="debug" type="string">Weapon</value>
+					<value name="desc" type="string">equipment_weapon_pistol_sa_22_01</value>
 					<value name="entity" type="string">editor\entities\hp_weapons\weapon_handguns_01\equipment_weapon_pistol_sa_22_01.ee</value>
 					<value name="tags" type="string">equipment_weapon_pistol_sa_22_01,handgun,weapon</value>
-					<value id="F71C2A21" type="string">equipment_weapon_pistol_sa_22_01</value>
 				</object>
 				<object name="equipment_weapon_pistol_sa_22_02">
 					<value name="debug" type="string">Weapon</value>
+					<value name="desc" type="string">equipment_weapon_pistol_sa_22_02</value>
 					<value name="entity" type="string">editor\entities\hp_weapons\weapon_handguns_01\equipment_weapon_pistol_sa_22_02.ee</value>
 					<value name="tags" type="string">equipment_weapon_pistol_sa_22_02,handgun,weapon</value>
-					<value id="F71C2A21" type="string">equipment_weapon_pistol_sa_22_02</value>
 				</object>
 				<object name="equipment_weapon_pistol_sa_22_03">
 					<value name="debug" type="string">Weapon</value>
+					<value name="desc" type="string">equipment_weapon_pistol_sa_22_03</value>
 					<value name="entity" type="string">editor\entities\hp_weapons\weapon_handguns_01\equipment_weapon_pistol_sa_22_03.ee</value>
 					<value name="tags" type="string">equipment_weapon_pistol_sa_22_03,handgun,weapon</value>
-					<value id="F71C2A21" type="string">equipment_weapon_pistol_sa_22_03</value>
 				</object>
 				<object name="equipment_weapon_pistol_ss_243_01">
 					<value name="debug" type="string">Weapon</value>
+					<value name="desc" type="string">equipment_weapon_pistol_ss_243_01</value>
 					<value name="entity" type="string">editor\entities\hp_weapons\weapon_handguns_01\equipment_weapon_pistol_ss_243_01.ee</value>
 					<value name="tags" type="string">equipment_weapon_pistol_ss_243_01,handgun,weapon</value>
-					<value id="F71C2A21" type="string">equipment_weapon_pistol_ss_243_01</value>
 				</object>
 				<object name="equipment_weapon_pistol_ss_243_02">
 					<value name="debug" type="string">Weapon</value>
+					<value name="desc" type="string">equipment_weapon_pistol_ss_243_02</value>
 					<value name="entity" type="string">editor\entities\hp_weapons\weapon_handguns_01\equipment_weapon_pistol_ss_243_02.ee</value>
 					<value name="tags" type="string">equipment_weapon_pistol_ss_243_02,handgun,weapon</value>
-					<value id="F71C2A21" type="string">equipment_weapon_pistol_ss_243_02</value>
 				</object>
 				<object name="equipment_weapon_pistol_ss_4570_01">
 					<value name="debug" type="string">Weapon</value>
+					<value name="desc" type="string">equipment_weapon_pistol_ss_4570_01</value>
 					<value name="entity" type="string">editor\entities\hp_weapons\weapon_handguns_01\equipment_weapon_pistol_ss_4570_01.ee</value>
 					<value name="tags" type="string">equipment_weapon_pistol_ss_4570_01,handgun,weapon</value>
-					<value id="F71C2A21" type="string">equipment_weapon_pistol_ss_4570_01</value>
 				</object>
 				<object name="equipment_weapon_recurve_bow_01">
 					<value name="debug" type="string">Weapon</value>
+					<value name="desc" type="string">equipment_weapon_recurve_bow_01</value>
 					<value name="entity" type="string">editor\entities\hp_weapons\weapon_bows_01\equipment_weapon_recurve_bow_01.ee</value>
 					<value name="tags" type="string">equipment_weapon_recurve_bow_01,bow,weapon</value>
-					<value id="F71C2A21" type="string">equipment_weapon_recurve_bow_01</value>
 				</object>
 				<object name="equipment_weapon_revolver_357m_01">
 					<value name="debug" type="string">Weapon</value>
+					<value name="desc" type="string">equipment_weapon_revolver_357m_01</value>
 					<value name="entity" type="string">editor\entities\hp_weapons\weapon_handguns_01\equipment_weapon_revolver_357m_01.ee</value>
 					<value name="tags" type="string">equipment_weapon_revolver_357m_01,handgun,weapon</value>
-					<value id="F71C2A21" type="string">equipment_weapon_revolver_357m_01</value>
 				</object>
 				<object name="equipment_weapon_revolver_410m_01">
 					<value name="debug" type="string">Weapon</value>
+					<value name="desc" type="string">equipment_weapon_revolver_410m_01</value>
 					<value name="entity" type="string">editor\entities\hp_weapons\weapon_handguns_01\equipment_weapon_revolver_410m_01.ee</value>
 					<value name="tags" type="string">equipment_weapon_revolver_410m_01,handgun,weapon</value>
-					<value id="F71C2A21" type="string">equipment_weapon_revolver_410m_01</value>
 				</object>
 				<object name="equipment_weapon_revolver_410m_02">
 					<value name="debug" type="string">Weapon</value>
+					<value name="desc" type="string">equipment_weapon_revolver_410m_02</value>
 					<value name="entity" type="string">editor\entities\hp_weapons\weapon_handguns_01\equipment_weapon_revolver_410m_02.ee</value>
 					<value name="tags" type="string">equipment_weapon_revolver_410m_02,handgun,weapon</value>
-					<value id="F71C2A21" type="string">equipment_weapon_revolver_410m_02</value>
 				</object>
 				<object name="equipment_weapon_revolver_410m_03">
 					<value name="debug" type="string">Weapon</value>
+					<value name="desc" type="string">equipment_weapon_revolver_410m_03</value>
 					<value name="entity" type="string">editor\entities\hp_weapons\weapon_handguns_01\equipment_weapon_revolver_410m_03.ee</value>
 					<value name="tags" type="string">equipment_weapon_revolver_410m_03,handgun,weapon</value>
-					<value id="F71C2A21" type="string">equipment_weapon_revolver_410m_03</value>
 				</object>
 				<object name="equipment_weapon_revolver_44m_01">
 					<value name="debug" type="string">Weapon</value>
+					<value name="desc" type="string">equipment_weapon_revolver_44m_01</value>
 					<value name="entity" type="string">editor\entities\hp_weapons\weapon_handguns_01\equipment_weapon_revolver_44m_01.ee</value>
 					<value name="tags" type="string">equipment_weapon_revolver_44m_01,handgun,weapon</value>
-					<value id="F71C2A21" type="string">equipment_weapon_revolver_44m_01</value>
 				</object>
 				<object name="equipment_weapon_revolver_44m_02">
 					<value name="debug" type="string">Weapon</value>
+					<value name="desc" type="string">equipment_weapon_revolver_44m_02</value>
 					<value name="entity" type="string">editor\entities\hp_weapons\weapon_handguns_01\equipment_weapon_revolver_44m_02.ee</value>
 					<value name="tags" type="string">equipment_weapon_revolver_44m_02,handgun,weapon</value>
-					<value id="F71C2A21" type="string">equipment_weapon_revolver_44m_02</value>
 				</object>
 				<object name="equipment_weapon_revolver_44m_03">
 					<value name="debug" type="string">Weapon</value>
+					<value name="desc" type="string">equipment_weapon_revolver_44m_03</value>
 					<value name="entity" type="string">editor\entities\hp_weapons\weapon_handguns_01\equipment_weapon_revolver_44m_03.ee</value>
 					<value name="tags" type="string">equipment_weapon_revolver_44m_03,handgun,weapon</value>
-					<value id="F71C2A21" type="string">equipment_weapon_revolver_44m_03</value>
 				</object>
 				<object name="equipment_weapon_revolver_45_01">
 					<value name="debug" type="string">Weapon</value>
+					<value name="desc" type="string">equipment_weapon_revolver_45_01</value>
 					<value name="entity" type="string">editor\entities\hp_weapons\weapon_handguns_01\equipment_weapon_revolver_45_01.ee</value>
 					<value name="tags" type="string">equipment_weapon_revolver_45_01,handgun,weapon</value>
-					<value id="F71C2A21" type="string">equipment_weapon_revolver_45_01</value>
 				</object>
 				<object name="equipment_weapon_revolver_45_02">
 					<value name="debug" type="string">Weapon</value>
+					<value name="desc" type="string">equipment_weapon_revolver_45_02</value>
 					<value name="entity" type="string">editor\entities\hp_weapons\weapon_handguns_01\equipment_weapon_revolver_45_02.ee</value>
 					<value name="tags" type="string">equipment_weapon_revolver_45_02,handgun,weapon</value>
-					<value id="F71C2A21" type="string">equipment_weapon_revolver_45_02</value>
 				</object>
 				<object name="equipment_weapon_revolver_454_01">
 					<value name="debug" type="string">Weapon</value>
+					<value name="desc" type="string">equipment_weapon_revolver_454_01</value>
 					<value name="entity" type="string">editor\entities\hp_weapons\weapon_handguns_01\equipment_weapon_revolver_454_01.ee</value>
 					<value name="tags" type="string">equipment_weapon_revolver_454_01,handgun,weapon</value>
-					<value id="F71C2A21" type="string">equipment_weapon_revolver_454_01</value>
 				</object>
 				<object name="equipment_weapon_revolver_454_02">
 					<value name="debug" type="string">Weapon</value>
+					<value name="desc" type="string">equipment_weapon_revolver_454_02</value>
 					<value name="entity" type="string">editor\entities\hp_weapons\weapon_handguns_01\equipment_weapon_revolver_454_02.ee</value>
 					<value name="tags" type="string">equipment_weapon_revolver_454_02,handgun,weapon</value>
-					<value id="F71C2A21" type="string">equipment_weapon_revolver_454_02</value>
 				</object>
 				<object name="equipment_weapon_sa_rifle_22lr_01">
 					<value name="debug" type="string">Weapon</value>
+					<value name="desc" type="string">equipment_weapon_sa_rifle_22lr_01</value>
 					<value name="entity" type="string">editor\entities\hp_weapons\weapon_rifles_01\equipment_weapon_sa_rifle_22lr_01.ee</value>
 					<value name="tags" type="string">equipment_weapon_sa_rifle_22lr_01,rifle,weapon</value>
-					<value id="F71C2A21" type="string">equipment_weapon_sa_rifle_22lr_01</value>
 				</object>
 				<object name="equipment_weapon_sa_rifle_22lr_02">
 					<value name="debug" type="string">Weapon</value>
+					<value name="desc" type="string">equipment_weapon_sa_rifle_22lr_02</value>
 					<value name="entity" type="string">editor\entities\hp_weapons\weapon_rifles_01\equipment_weapon_sa_rifle_22lr_02.ee</value>
 					<value name="tags" type="string">equipment_weapon_sa_rifle_22lr_02,rifle,weapon</value>
-					<value id="F71C2A21" type="string">equipment_weapon_sa_rifle_22lr_02</value>
 				</object>
 				<object name="equipment_weapon_sa_rifle_ar10_308_01">
 					<value name="debug" type="string">Weapon</value>
+					<value name="desc" type="string">equipment_weapon_sa_rifle_ar10_308_01</value>
 					<value name="entity" type="string">editor\entities\hp_weapons\weapon_rifles_01\equipment_weapon_sa_rifle_ar10_308_01.ee</value>
 					<value name="tags" type="string">equipment_weapon_sa_rifle_ar10_308_01,rifle,weapon</value>
-					<value id="F71C2A21" type="string">equipment_weapon_sa_rifle_ar10_308_01</value>
 				</object>
 				<object name="equipment_weapon_sa_rifle_ar10_308_02">
 					<value name="debug" type="string">Weapon</value>
+					<value name="desc" type="string">equipment_weapon_sa_rifle_ar10_308_02</value>
 					<value name="entity" type="string">editor\entities\hp_weapons\weapon_rifles_01\equipment_weapon_sa_rifle_ar10_308_02.ee</value>
 					<value name="tags" type="string">equipment_weapon_sa_rifle_ar10_308_02,rifle,weapon</value>
-					<value id="F71C2A21" type="string">equipment_weapon_sa_rifle_ar10_308_02</value>
 				</object>
 				<object name="equipment_weapon_sa_rifle_ar15_223_01">
 					<value name="debug" type="string">Weapon</value>
+					<value name="desc" type="string">equipment_weapon_sa_rifle_ar15_223_01</value>
 					<value name="entity" type="string">editor\entities\hp_weapons\weapon_rifles_01\equipment_weapon_sa_rifle_ar15_223_01.ee</value>
 					<value name="tags" type="string">equipment_weapon_sa_rifle_ar15_223_01,rifle,weapon</value>
-					<value id="F71C2A21" type="string">equipment_weapon_sa_rifle_ar15_223_01</value>
 				</object>
 				<object name="equipment_weapon_sa_rifle_ar15_223_02">
 					<value name="debug" type="string">Weapon</value>
+					<value name="desc" type="string">equipment_weapon_sa_rifle_ar15_223_02</value>
 					<value name="entity" type="string">editor\entities\hp_weapons\weapon_rifles_01\equipment_weapon_sa_rifle_ar15_223_02.ee</value>
 					<value name="tags" type="string">equipment_weapon_sa_rifle_ar15_223_02,rifle,weapon</value>
-					<value id="F71C2A21" type="string">equipment_weapon_sa_rifle_ar15_223_02</value>
 				</object>
 				<object name="equipment_weapon_sa_rifle_ar15_22lr_01">
 					<value name="debug" type="string">Weapon</value>
+					<value name="desc" type="string">equipment_weapon_sa_rifle_ar15_22lr_01</value>
 					<value name="entity" type="string">editor\entities\hp_weapons\weapon_rifles_01\equipment_weapon_sa_rifle_ar15_22lr_01.ee</value>
 					<value name="tags" type="string">equipment_weapon_sa_rifle_ar15_22lr_01,rifle,weapon</value>
-					<value id="F71C2A21" type="string">equipment_weapon_sa_rifle_ar15_22lr_01</value>
 				</object>
 				<object name="equipment_weapon_sa_rifle_ar15_22lr_02">
 					<value name="debug" type="string">Weapon</value>
+					<value name="desc" type="string">equipment_weapon_sa_rifle_ar15_22lr_02</value>
 					<value name="entity" type="string">editor\entities\hp_weapons\weapon_rifles_01\equipment_weapon_sa_rifle_ar15_22lr_02.ee</value>
 					<value name="tags" type="string">equipment_weapon_sa_rifle_ar15_22lr_02,rifle,weapon</value>
-					<value id="F71C2A21" type="string">equipment_weapon_sa_rifle_ar15_22lr_02</value>
 				</object>
 				<object name="equipment_weapon_sa_rifle_ar15_300_01">
 					<value name="debug" type="string">Weapon</value>
+					<value name="desc" type="string">equipment_weapon_sa_rifle_ar15_300_01</value>
 					<value name="entity" type="string">editor\entities\hp_weapons\weapon_rifles_01\equipment_weapon_sa_rifle_ar15_300_01.ee</value>
 					<value name="tags" type="string">equipment_weapon_sa_rifle_ar15_300_01,rifle,weapon</value>
-					<value id="F71C2A21" type="string">equipment_weapon_sa_rifle_ar15_300_01</value>
 				</object>
 				<object name="equipment_weapon_sa_rifle_m1_garand_01">
 					<value name="debug" type="string">Weapon</value>
+					<value name="desc" type="string">equipment_weapon_sa_rifle_m1_garand_01</value>
 					<value name="entity" type="string">editor\entities\hp_weapons\weapon_rifles_01\equipment_weapon_sa_rifle_m1_garand_01.ee</value>
 					<value name="tags" type="string">equipment_weapon_sa_rifle_m1_garand_01,rifle,weapon</value>
-					<value id="F71C2A21" type="string">equipment_weapon_sa_rifle_m1_garand_01</value>
 				</object>
 				<object name="equipment_weapon_sa_rifle_m1_garand_02">
 					<value name="debug" type="string">Weapon</value>
+					<value name="desc" type="string">equipment_weapon_sa_rifle_m1_garand_02</value>
 					<value name="entity" type="string">editor\entities\hp_weapons\weapon_rifles_01\equipment_weapon_sa_rifle_m1_garand_02.ee</value>
 					<value name="tags" type="string">equipment_weapon_sa_rifle_m1_garand_02,rifle,weapon</value>
-					<value id="F71C2A21" type="string">equipment_weapon_sa_rifle_m1_garand_02</value>
 				</object>
 				<object name="equipment_weapon_sa_rifle_m1_garand_03">
 					<value name="debug" type="string">Weapon</value>
+					<value name="desc" type="string">equipment_weapon_sa_rifle_m1_garand_03</value>
 					<value name="entity" type="string">editor\entities\hp_weapons\weapon_rifles_01\equipment_weapon_sa_rifle_m1_garand_03.ee</value>
 					<value name="tags" type="string">equipment_weapon_sa_rifle_m1_garand_03,rifle,weapon</value>
-					<value id="F71C2A21" type="string">equipment_weapon_sa_rifle_m1_garand_03</value>
 				</object>
 				<object name="equipment_weapon_sa_shotgun_10ga_01">
 					<value name="debug" type="string">Weapon</value>
+					<value name="desc" type="string">equipment_weapon_sa_shotgun_10ga_01</value>
 					<value name="entity" type="string">editor\entities\hp_weapons\weapon_shotguns_01\equipment_weapon_sa_shotgun_10ga_01.ee</value>
 					<value name="tags" type="string">equipment_weapon_sa_shotgun_10ga_01,shotgun,weapon</value>
-					<value id="F71C2A21" type="string">equipment_weapon_sa_shotgun_10ga_01</value>
 				</object>
 				<object name="equipment_weapon_sa_shotgun_20ga_01">
 					<value name="debug" type="string">Weapon</value>
+					<value name="desc" type="string">equipment_weapon_sa_shotgun_20ga_01</value>
 					<value name="entity" type="string">editor\entities\hp_weapons\weapon_shotguns_01\equipment_weapon_sa_shotgun_20ga_01.ee</value>
 					<value name="tags" type="string">equipment_weapon_sa_shotgun_20ga_01,shotgun,weapon</value>
-					<value id="F71C2A21" type="string">equipment_weapon_sa_shotgun_20ga_01</value>
 				</object>
 				<object name="equipment_weapon_sa_shotgun_20ga_02">
 					<value name="debug" type="string">Weapon</value>
+					<value name="desc" type="string">equipment_weapon_sa_shotgun_20ga_02</value>
 					<value name="entity" type="string">editor\entities\hp_weapons\weapon_shotguns_01\equipment_weapon_sa_shotgun_20ga_02.ee</value>
 					<value name="tags" type="string">equipment_weapon_sa_shotgun_20ga_02,shotgun,weapon</value>
-					<value id="F71C2A21" type="string">equipment_weapon_sa_shotgun_20ga_02</value>
 				</object>
 				<object name="equipment_weapon_sa_shotgun_20ga_03">
 					<value name="debug" type="string">Weapon</value>
+					<value name="desc" type="string">equipment_weapon_sa_shotgun_20ga_03</value>
 					<value name="entity" type="string">editor\entities\hp_weapons\weapon_shotguns_01\equipment_weapon_sa_shotgun_20ga_03.ee</value>
 					<value name="tags" type="string">equipment_weapon_sa_shotgun_20ga_03,shotgun,weapon</value>
-					<value id="F71C2A21" type="string">equipment_weapon_sa_shotgun_20ga_03</value>
 				</object>
 				<object name="equipment_weapon_sa_shotgun_20ga_04">
 					<value name="debug" type="string">Weapon</value>
+					<value name="desc" type="string">equipment_weapon_sa_shotgun_20ga_04</value>
 					<value name="entity" type="string">editor\entities\hp_weapons\weapon_shotguns_01\equipment_weapon_sa_shotgun_20ga_04.ee</value>
 					<value name="tags" type="string">equipment_weapon_sa_shotgun_20ga_04,shotgun,weapon</value>
-					<value id="F71C2A21" type="string">equipment_weapon_sa_shotgun_20ga_04</value>
 				</object>
 				<object name="equipment_weapon_sa_shotgun_20ga_05">
 					<value name="debug" type="string">Weapon</value>
+					<value name="desc" type="string">equipment_weapon_sa_shotgun_20ga_05</value>
 					<value name="entity" type="string">editor\entities\hp_weapons\weapon_shotguns_01\equipment_weapon_sa_shotgun_20ga_05.ee</value>
 					<value name="tags" type="string">equipment_weapon_sa_shotgun_20ga_05,shotgun,weapon</value>
-					<value id="F71C2A21" type="string">equipment_weapon_sa_shotgun_20ga_05</value>
 				</object>
 				<object name="equipment_weapon_sa_shotgun_20ga_06">
 					<value name="debug" type="string">Weapon</value>
+					<value name="desc" type="string">equipment_weapon_sa_shotgun_20ga_06</value>
 					<value name="entity" type="string">editor\entities\hp_weapons\weapon_shotguns_01\equipment_weapon_sa_shotgun_20ga_06.ee</value>
 					<value name="tags" type="string">equipment_weapon_sa_shotgun_20ga_06,shotgun,weapon</value>
-					<value id="F71C2A21" type="string">equipment_weapon_sa_shotgun_20ga_06</value>
 				</object>
 				<object name="equipment_weapon_sbs_shotgun_20ga_01">
 					<value name="debug" type="string">Weapon</value>
+					<value name="desc" type="string">equipment_weapon_sbs_shotgun_20ga_01</value>
 					<value name="entity" type="string">editor\entities\hp_weapons\weapon_shotguns_01\equipment_weapon_sbs_shotgun_20ga_01.ee</value>
 					<value name="tags" type="string">equipment_weapon_sbs_shotgun_20ga_01,shotgun,weapon</value>
-					<value id="F71C2A21" type="string">equipment_weapon_sbs_shotgun_20ga_01</value>
 				</object>
 				<object name="equipment_weapon_sbs_shotgun_20ga_02">
 					<value name="debug" type="string">Weapon</value>
+					<value name="desc" type="string">equipment_weapon_sbs_shotgun_20ga_02</value>
 					<value name="entity" type="string">editor\entities\hp_weapons\weapon_shotguns_01\equipment_weapon_sbs_shotgun_20ga_02.ee</value>
 					<value name="tags" type="string">equipment_weapon_sbs_shotgun_20ga_02,shotgun,weapon</value>
-					<value id="F71C2A21" type="string">equipment_weapon_sbs_shotgun_20ga_02</value>
 				</object>
 				<object name="equipment_weapon_sbs_shotgun_20ga_03">
 					<value name="debug" type="string">Weapon</value>
+					<value name="desc" type="string">equipment_weapon_sbs_shotgun_20ga_03</value>
 					<value name="entity" type="string">editor\entities\hp_weapons\weapon_shotguns_01\equipment_weapon_sbs_shotgun_20ga_03.ee</value>
 					<value name="tags" type="string">equipment_weapon_sbs_shotgun_20ga_03,shotgun,weapon</value>
-					<value id="F71C2A21" type="string">equipment_weapon_sbs_shotgun_20ga_03</value>
 				</object>
 				<object name="equipment_weapon_sbs_shotgun_20ga_04">
 					<value name="debug" type="string">Weapon</value>
+					<value name="desc" type="string">equipment_weapon_sbs_shotgun_20ga_04</value>
 					<value name="entity" type="string">editor\entities\hp_weapons\weapon_shotguns_01\equipment_weapon_sbs_shotgun_20ga_04.ee</value>
 					<value name="tags" type="string">equipment_weapon_sbs_shotgun_20ga_04,shotgun,weapon</value>
-					<value id="F71C2A21" type="string">equipment_weapon_sbs_shotgun_20ga_04</value>
 				</object>
 				<object name="equipment_weapon_ss_rifle_338_01">
 					<value name="debug" type="string">Weapon</value>
+					<value name="desc" type="string">equipment_weapon_ss_rifle_338_01</value>
 					<value name="entity" type="string">editor\entities\hp_weapons\weapon_rifles_01\equipment_weapon_ss_rifle_338_01.ee</value>
 					<value name="tags" type="string">equipment_weapon_ss_rifle_338_01,rifle,weapon</value>
-					<value id="F71C2A21" type="string">equipment_weapon_ss_rifle_338_01</value>
 				</object>
 				<object name="equipment_weapon_ss_rifle_338_02">
 					<value name="debug" type="string">Weapon</value>
+					<value name="desc" type="string">equipment_weapon_ss_rifle_338_02</value>
 					<value name="entity" type="string">editor\entities\hp_weapons\weapon_rifles_01\equipment_weapon_ss_rifle_338_02.ee</value>
 					<value name="tags" type="string">equipment_weapon_ss_rifle_338_02,rifle,weapon</value>
-					<value id="F71C2A21" type="string">equipment_weapon_ss_rifle_338_02</value>
 				</object>
 				<object name="equipment_weapon_ss_rifle_7mm_01">
 					<value name="debug" type="string">Weapon</value>
+					<value name="desc" type="string">equipment_weapon_ss_rifle_7mm_01</value>
 					<value name="entity" type="string">editor\entities\hp_weapons\weapon_rifles_01\equipment_weapon_ss_rifle_7mm_01.ee</value>
 					<value name="tags" type="string">equipment_weapon_ss_rifle_7mm_01,rifle,weapon</value>
-					<value id="F71C2A21" type="string">equipment_weapon_ss_rifle_7mm_01</value>
 				</object>
 				<object name="equipment_weapon_ss_rifle_7mm_02">
 					<value name="debug" type="string">Weapon</value>
+					<value name="desc" type="string">equipment_weapon_ss_rifle_7mm_02</value>
 					<value name="entity" type="string">editor\entities\hp_weapons\weapon_rifles_01\equipment_weapon_ss_rifle_7mm_02.ee</value>
 					<value name="tags" type="string">equipment_weapon_ss_rifle_7mm_02,rifle,weapon</value>
-					<value id="F71C2A21" type="string">equipment_weapon_ss_rifle_7mm_02</value>
 				</object>
 				<object name="equipment_weapon_sxs_rifle_470ne_01">
 					<value name="debug" type="string">Weapon</value>
+					<value name="desc" type="string">equipment_weapon_sxs_rifle_470ne_01</value>
 					<value name="entity" type="string">editor\entities\hp_weapons\weapon_rifles_01\equipment_weapon_sxs_rifle_470ne_01.ee</value>
 					<value name="tags" type="string">equipment_weapon_sxs_rifle_470ne_01,rifle,weapon</value>
-					<value id="F71C2A21" type="string">equipment_weapon_sxs_rifle_470ne_01</value>
 				</object>
 				<object name="equipment_weapon_sxs_rifle_470ne_02">
 					<value name="debug" type="string">Weapon</value>
+					<value name="desc" type="string">equipment_weapon_sxs_rifle_470ne_02</value>
 					<value name="entity" type="string">editor\entities\hp_weapons\weapon_rifles_01\equipment_weapon_sxs_rifle_470ne_02.ee</value>
 					<value name="tags" type="string">equipment_weapon_sxs_rifle_470ne_02,rifle,weapon</value>
-					<value id="F71C2A21" type="string">equipment_weapon_sxs_rifle_470ne_02</value>
 				</object>
 				<object name="equipment_weapon_sxs_rifle_470ne_03">
 					<value name="debug" type="string">Weapon</value>
+					<value name="desc" type="string">equipment_weapon_sxs_rifle_470ne_03</value>
 					<value name="entity" type="string">editor\entities\hp_weapons\weapon_rifles_01\equipment_weapon_sxs_rifle_470ne_03.ee</value>
 					<value name="tags" type="string">equipment_weapon_sxs_rifle_470ne_03,rifle,weapon</value>
-					<value id="F71C2A21" type="string">equipment_weapon_sxs_rifle_470ne_03</value>
 				</object>
 				<object name="equipment_weapon_traditional_longbow_01">
 					<value name="debug" type="string">Weapon</value>
+					<value name="desc" type="string">equipment_weapon_traditional_longbow_01</value>
 					<value name="entity" type="string">editor\entities\hp_weapons\weapon_bows_01\equipment_weapon_traditional_longbow_01.ee</value>
 					<value name="tags" type="string">equipment_weapon_traditional_longbow_01,bow,weapon</value>
-					<value id="F71C2A21" type="string">equipment_weapon_traditional_longbow_01</value>
 				</object>
 				<object name="equipment_weapon_traditional_longbow_02">
 					<value name="debug" type="string">Weapon</value>
+					<value name="desc" type="string">equipment_weapon_traditional_longbow_02</value>
 					<value name="entity" type="string">editor\entities\hp_weapons\weapon_bows_01\equipment_weapon_traditional_longbow_02.ee</value>
 					<value name="tags" type="string">equipment_weapon_traditional_longbow_02,bow,weapon</value>
-					<value id="F71C2A21" type="string">equipment_weapon_traditional_longbow_02</value>
 				</object>
 				<object name="equipment_weapon_traditional_longbow_03">
 					<value name="debug" type="string">Weapon</value>
+					<value name="desc" type="string">equipment_weapon_traditional_longbow_03</value>
 					<value name="entity" type="string">editor\entities\hp_weapons\weapon_bows_01\equipment_weapon_traditional_longbow_03.ee</value>
 					<value name="tags" type="string">equipment_weapon_traditional_longbow_03,bow,weapon</value>
-					<value id="F71C2A21" type="string">equipment_weapon_traditional_longbow_03</value>
 				</object>
 			</object>
 		</object>

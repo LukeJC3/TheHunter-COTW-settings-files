@@ -1,37 +1,37 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <container extension=".bin" format="RTPC" endian="Little">
 	<object name="root">
-		<object id="83647B76">
-			<object id="0B621FB6">
+		<object name="spawn_system">
+			<object name="resource_definitions">
 				<object name="guard_rail_b">
 					<value name="debug" type="string">road_decoration</value>
+					<value name="desc" type="string">guard_rail_b</value>
 					<value name="entity" type="string">editor/entities/jc_environments/structures/infrastructure/guard_rail_b/guard_rail_b_4m.ee</value>
 					<value name="tags" type="string">guard_rail</value>
-					<value id="F71C2A21" type="string">guard_rail_b</value>
 				</object>
 				<object name="guard_rail_b_end_l">
 					<value name="debug" type="string">road_decoration</value>
+					<value name="desc" type="string">guard_rail_b_end_l</value>
 					<value name="entity" type="string">editor/entities/jc_environments/structures/infrastructure/guard_rail_b/guard_rail_b_4m_end_l.ee</value>
 					<value name="tags" type="string"></value>
-					<value id="F71C2A21" type="string">guard_rail_b_end_l</value>
 				</object>
 				<object name="guard_rail_b_end_r">
 					<value name="debug" type="string">road_decoration</value>
+					<value name="desc" type="string">guard_rail_b_end_r</value>
 					<value name="entity" type="string">editor/entities/jc_environments/structures/infrastructure/guard_rail_b/guard_rail_b_4m_end_r.ee</value>
 					<value name="tags" type="string"></value>
-					<value id="F71C2A21" type="string">guard_rail_b_end_r</value>
 				</object>
 				<object name="street_light_rural">
 					<value name="debug" type="string">road_decoration</value>
+					<value name="desc" type="string">street_light_rural</value>
 					<value name="entity" type="string">editor/entities/jc_environments/structures/infrastructure/streetlight/streetlight_rural_a.ee</value>
 					<value name="tags" type="string">street_light,rural</value>
-					<value id="F71C2A21" type="string">street_light_rural</value>
 				</object>
 				<object id="918BEA9A">
 					<value name="debug" type="string">road_decoration</value>
+					<value name="desc" type="string">modern_street_light</value>
 					<value name="entity" type="string">editor/entities/hp_manmade/infrastructure/roadside_decorations/roadside_bollard.ee</value>
 					<value name="tags" type="string">street_light,modern</value>
-					<value id="F71C2A21" type="string">modern_street_light</value>
 				</object>
 			</object>
 		</object>

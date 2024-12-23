@@ -1,25 +1,25 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <container extension=".bin" format="RTPC" endian="Little">
 	<object name="root">
-		<object id="83647B76">
-			<object id="0B621FB6">
+		<object name="spawn_system">
+			<object name="resource_definitions">
 				<object name="arrow_collect">
 					<value name="debug" type="string">arrow_collect</value>
+					<value name="desc" type="string">arrow_collect</value>
 					<value name="entity" type="string">editor/entities/hp_gameplay/arrow_collect.ee</value>
 					<value name="tags" type="string">arrow_collect</value>
-					<value id="F71C2A21" type="string">arrow_collect</value>
 				</object>
 				<object name="confirm_kill">
 					<value name="debug" type="string">confirm_kill</value>
+					<value name="desc" type="string">confirm_kill</value>
 					<value name="entity" type="string">editor/entities/hp_ui/confirm_kill_info_sequence.ee</value>
 					<value name="tags" type="string">confirm_kill</value>
-					<value id="F71C2A21" type="string">confirm_kill</value>
 				</object>
 				<object name="mp_poi">
 					<value name="debug" type="string">mp_poi</value>
+					<value name="desc" type="string">mp_poi</value>
 					<value name="entity" type="string">editor/entities/hp_gameplay/mp_poi.ee</value>
 					<value name="tags" type="string">mp_poi</value>
-					<value id="F71C2A21" type="string">mp_poi</value>
 				</object>
 			</object>
 		</object>

@@ -1,25 +1,25 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <container extension=".bin" format="RTPC" endian="Little">
 	<object name="root">
-		<object id="83647B76">
-			<object id="0B621FB6">
+		<object name="spawn_system">
+			<object name="resource_definitions">
 				<object name="w142_rpg_capstone_bloodhound">
 					<value name="debug" type="string">Weapon|Pre order</value>
+					<value name="desc" type="string">w142_rpg_capstone_bloodhound</value>
 					<value name="entity" type="string">editor\entities\jc_weapons\02_two_handed\w142_rpg_capstone_bloodhound\w142_rpg_capstone_bloodhound.ee</value>
 					<value name="tags" type="string">weapon,w142</value>
-					<value id="F71C2A21" type="string">w142_rpg_capstone_bloodhound</value>
 				</object>
 				<object name="w163_sniper_rifle_final_argument">
 					<value name="debug" type="string">Weapon|Pre order</value>
+					<value name="desc" type="string">w163_sniper_rifle_final_argument</value>
 					<value name="entity" type="string">editor/entities/jc_weapons/02_two_handed/w163_sniper_rifle_final_argument/w163_sniper_rifle_final_argument.ee</value>
 					<value name="tags" type="string">weapon,do_not_use,finalargument,w163</value>
-					<value id="F71C2A21" type="string">w163_sniper_rifle_final_argument</value>
 				</object>
 				<object name="w177_typhoon">
 					<value name="debug" type="string">Weapon|Prototypes</value>
+					<value name="desc" type="string">w177_typhoon</value>
 					<value name="entity" type="string">editor/entities/jc_weapons/02_two_handed/w177_typhoon/w177_typhoon.ee</value>
 					<value name="tags" type="string">weapon,typhoon,w177</value>
-					<value id="F71C2A21" type="string">w177_typhoon</value>
 				</object>
 			</object>
 		</object>

@@ -1,103 +1,103 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <container extension=".bin" format="RTPC" endian="Little">
 	<object name="root">
-		<object id="83647B76">
-			<object id="0B621FB6">
+		<object name="spawn_system">
+			<object name="resource_definitions">
 				<object name="mm12130_kids_note">
 					<value name="debug" type="string">mm12130_kids_note</value>
+					<value name="desc" type="string">mm12130_kids_note</value>
 					<value name="entity" type="string">editor\entities\hp_manmade\props\notes\fold_up_map_note_01.ee</value>
 					<value name="tags" type="string">mm12130_kids_note</value>
-					<value id="F71C2A21" type="string">mm12130_kids_note</value>
 				</object>
 				<object name="mm12210_rock">
 					<value name="debug" type="string">mm12210_rock</value>
+					<value name="desc" type="string">mm12210_rock</value>
 					<value name="entity" type="string">editor\entities\hp_manmade\props\misc\hollow_rock\hollow_rock_01.ee</value>
 					<value name="tags" type="string">mm12210_rock</value>
-					<value id="F71C2A21" type="string">mm12210_rock</value>
 				</object>
 				<object name="mm12220_cassette">
 					<value name="debug" type="string">mm12220_cassette</value>
+					<value name="desc" type="string">mm12220_cassette</value>
 					<value name="entity" type="string">editor\entities\hp_manmade\props\electronics\cassette_player\cassette_tape_01.ee</value>
 					<value name="tags" type="string">mm12220_cassette</value>
-					<value id="F71C2A21" type="string">mm12220_cassette</value>
 				</object>
 				<object name="mm12230_birthday_card">
 					<value name="debug" type="string">mm12230_birthday_card</value>
+					<value name="desc" type="string">mm12230_birthday_card</value>
 					<value name="entity" type="string">editor\entities\hp_manmade\props\notes\receipt_flowers_01.ee</value>
 					<value name="tags" type="string">mm12230_birthday_card</value>
-					<value id="F71C2A21" type="string">mm12230_birthday_card</value>
 				</object>
 				<object name="mm13100_diabase_rock">
 					<value name="debug" type="string">mm13100_diabase_rock</value>
+					<value name="desc" type="string">mm13100_diabase_rock</value>
 					<value name="entity" type="string">editor\entities\hp_manmade\props\misc\sauna_stone_01.ee</value>
 					<value name="tags" type="string">mm13100_diabase_rock</value>
-					<value id="F71C2A21" type="string">mm13100_diabase_rock</value>
 				</object>
 				<object name="mm13100_dried_birch">
 					<value name="debug" type="string">mm13100_dried_birch</value>
+					<value name="desc" type="string">mm13100_dried_birch</value>
 					<value name="entity" type="string">editor\entities\hp_manmade\props\misc\birch_branch_bundle_01.ee</value>
 					<value name="tags" type="string">mm13100_dried_birch</value>
-					<value id="F71C2A21" type="string">mm13100_dried_birch</value>
 				</object>
 				<object name="mm13100_runebergintorttu">
 					<value name="debug" type="string">mm13100_runebergintorttu</value>
+					<value name="desc" type="string">mm13100_runebergintorttu</value>
 					<value name="entity" type="string">editor\entities\hp_manmade\props\food_and_beverages\runeberg_cake_01.ee</value>
 					<value name="tags" type="string">mm13100_runebergintorttu</value>
-					<value id="F71C2A21" type="string">mm13100_runebergintorttu</value>
 				</object>
 				<object name="mm14120_location_photo_01">
 					<value name="debug" type="string">mm14120_location_photo_01</value>
+					<value name="desc" type="string">mm14120_location_photo_01</value>
 					<value name="entity" type="string">editor\entities\hp_manmade\props\misc\nh_location_photo\nh_location_photo_01.ee</value>
 					<value name="tags" type="string">mm14120_location_photo_01</value>
-					<value id="F71C2A21" type="string">mm14120_location_photo_01</value>
 				</object>
 				<object name="mm14120_location_photo_02">
 					<value name="debug" type="string">mm14120_location_photo_02</value>
+					<value name="desc" type="string">mm14120_location_photo_02</value>
 					<value name="entity" type="string">editor\entities\hp_manmade\props\misc\nh_location_photo\nh_location_photo_02.ee</value>
 					<value name="tags" type="string">mm14120_location_photo_02</value>
-					<value id="F71C2A21" type="string">mm14120_location_photo_02</value>
 				</object>
 				<object name="mm14120_location_photo_03">
 					<value name="debug" type="string">mm14120_location_photo_03</value>
+					<value name="desc" type="string">mm14120_location_photo_03</value>
 					<value name="entity" type="string">editor\entities\hp_manmade\props\misc\nh_location_photo\nh_location_photo_03.ee</value>
 					<value name="tags" type="string">mm14120_location_photo_03</value>
-					<value id="F71C2A21" type="string">mm14120_location_photo_03</value>
 				</object>
 				<object name="mm14120_location_photo_04">
 					<value name="debug" type="string">mm14120_location_photo_04</value>
+					<value name="desc" type="string">mm14120_location_photo_04</value>
 					<value name="entity" type="string">editor\entities\hp_manmade\props\misc\nh_location_photo\nh_location_photo_04.ee</value>
 					<value name="tags" type="string">mm14120_location_photo_04</value>
-					<value id="F71C2A21" type="string">mm14120_location_photo_04</value>
 				</object>
 				<object name="mm16120_kangaroo_toy_gift">
 					<value name="debug" type="string">mm16120_kangaroo_toy_gift</value>
+					<value name="desc" type="string">mm16120_kangaroo_toy_gift</value>
 					<value name="entity" type="string">editor\entities\hp_manmade\props\misc\aus_mission_gifts\aus_kangaroo_toy_gift.ee</value>
 					<value name="tags" type="string">mm16120_kangaroo_toy_gift</value>
-					<value id="F71C2A21" type="string">mm16120_kangaroo_toy_gift</value>
 				</object>
 				<object name="mm16170_waltzing_matilda_gift">
 					<value name="debug" type="string">mm16170_waltzing_matilda_gift</value>
+					<value name="desc" type="string">mm16170_waltzing_matilda_gift</value>
 					<value name="entity" type="string">editor\entities\hp_manmade\props\misc\aus_mission_gifts\aus_waltzing_matilda_book.ee</value>
 					<value name="tags" type="string">mm16170_waltzing_matilda_gift</value>
-					<value id="F71C2A21" type="string">mm16170_waltzing_matilda_gift</value>
 				</object>
 				<object name="mm16180_croc_newspaper">
 					<value name="debug" type="string">mm16180_croc_newspaper</value>
+					<value name="desc" type="string">mm16180_croc_newspaper</value>
 					<value name="entity" type="string">editor\entities\hp_manmade\props\misc\aus_newspaper\aus_croc_newspaper.ee</value>
 					<value name="tags" type="string">mm16180_croc_newspaper</value>
-					<value id="F71C2A21" type="string">mm16180_croc_newspaper</value>
 				</object>
 				<object name="mm17130_kukri_knife_01">
 					<value name="debug" type="string">mm17130_kukri_knife_01</value>
+					<value name="desc" type="string">mm17130_kukri_knife_01</value>
 					<value name="entity" type="string">editor\entities\hp_manmade\props\nepal\kukri_knife\_kukri_knife_01.ee</value>
 					<value name="tags" type="string">mm17130_kukri_knife_01</value>
-					<value id="F71C2A21" type="string">mm17130_kukri_knife_01</value>
 				</object>
 				<object name="mm17140_broken_tiger_tooth_01">
 					<value name="debug" type="string">mm17140_broken_tiger_tooth_01</value>
+					<value name="desc" type="string">nepal_missionitem_02_description</value>
 					<value name="entity" type="string">editor\entities\hp_manmade\props\nepal\broken_tiger_tooth\_broken_tiger_tooth_01.ee</value>
 					<value name="tags" type="string">mm17140_broken_tiger_tooth_01</value>
-					<value id="F71C2A21" type="string">nepal_missionitem_02_description</value>
 				</object>
 			</object>
 		</object>

@@ -1,8 +1,8 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <container extension=".bin" format="RTPC" endian="Little">
 	<object name="root">
-		<object id="83647B76">
-			<object id="0B621FB6" />
+		<object name="spawn_system">
+			<object name="resource_definitions" />
 		</object>
 	</object>
 </container>

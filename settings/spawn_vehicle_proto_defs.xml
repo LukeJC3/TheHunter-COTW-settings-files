@@ -1,35 +1,35 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <container extension=".bin" format="RTPC" endian="Little">
 	<object name="root">
-		<object id="83647B76">
-			<object id="0B621FB6">
+		<object name="spawn_system">
+			<object name="resource_definitions">
 				<object name="v001_car_atv_debug">
 					<value name="debug" type="string">vehicle|ground|prototype</value>
+					<value name="desc" type="string">v001_car_atv_debug</value>
 					<value name="entity" type="string">editor\entities\vehicles\01_land\v001_car_atv\v001_car_atv_debug.ee</value>
 					<value name="select" type="int">100</value>
 					<value name="tags" type="string">debugspawnonly</value>
-					<value id="F71C2A21" type="string">v001_car_atv_debug</value>
 				</object>
 				<object name="v0012_car_autostraad_atv_debug">
 					<value name="debug" type="string">vehicle|ground|prototype</value>
+					<value name="desc" type="string">v0012_car_autostraad_atv_debug</value>
 					<value name="entity" type="string">editor\entities\vehicles\01_land\v0012_car_autostraad_atv\v0012_car_autostraad_atv_debug.ee</value>
 					<value name="select" type="int">100</value>
 					<value name="tags" type="string">debugspawnonly</value>
-					<value id="F71C2A21" type="string">v0012_car_autostraad_atv_debug</value>
 				</object>
 				<object name="v1302_boat_kensington_sailboat_debug">
 					<value name="debug" type="string">vehicle|ground|prototype</value>
+					<value name="desc" type="string">v1302_boat_kensington_sailboat_debug</value>
 					<value name="entity" type="string">editor\entities\vehicles\01_land\v0000_car_autostraad_oldjeep\v0000_car_autostraad_oldjeep_debug.ee</value>
 					<value name="select" type="int">100</value>
 					<value name="tags" type="string">debugspawnonly</value>
-					<value id="F71C2A21" type="string">v1302_boat_kensington_sailboat_debug</value>
 				</object>
 				<object name="v3001_bike_autostraad_snowmobile_debug">
 					<value name="debug" type="string">vehicle|ground|prototype</value>
+					<value name="desc" type="string">v3001_bike_autostraad_snowmobile_debug</value>
 					<value name="entity" type="string">editor\entities\vehicles\01_land\v3001_bike_autostraad_snowmobile\v3001_bike_autostraad_snowmobile_debug.ee</value>
 					<value name="select" type="int">100</value>
 					<value name="tags" type="string">debugspawnonly</value>
-					<value id="F71C2A21" type="string">v3001_bike_autostraad_snowmobile_debug</value>
 				</object>
 			</object>
 		</object>
