@@ -17,7 +17,6 @@ However Avalanche is moving towards using ADF for more and more things. ADF was 
 Some bin files in TheHunter COTW are already actually ADF files, which I'm pretty sure I can not re-create in this way, so I am only remaking the RTPC bin files
 
 ## Ok but how can I use these files?
-Simply download all the XMLs. Also get the most recent [Just Cause 3 tools package](https://drive.google.com/file/d/13Iijzxg2wUUh9w-OqzomlaN5XGixLp7x/view?usp=drive_link) and extract it
+Simply download all the XMLs. Also get the most recent [Just Cause 3 tools collection](https://drive.google.com/file/d/13Iijzxg2wUUh9w-OqzomlaN5XGixLp7x/view?usp=drive_link) and extract it
 
-Edit the settings file you want, save it and drag the xml onto JustCause3_Batch.bat and it will repack the xml back to a bin file
-Now just add your edited file to your dropzone folder at the same path they are here and enjoy!
+Edit the settings file you want, save it and drag the xml onto JustCause3_Batch.bat and it will repack the xml back to a bin file. Now just add your edited file to your dropzone folder at the same path they are here and enjoy!
