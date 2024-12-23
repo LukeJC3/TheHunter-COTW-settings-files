@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<container extension=".bin" format="RTPC" endian="Little">
+	<object name="root">
+		<object name="american_alligator">
+			<value id="6E68E734" type="string">american_alligator</value>
+			<value id="EDD7A208" type="int">300</value>
+		</object>
+		<object name="bengal_tiger">
+			<value id="6E68E734" type="string">bengal_tiger</value>
+			<value id="EDD7A208" type="int">300</value>
+		</object>
+		<object name="gray_wolf">
+			<value id="6E68E734" type="string">gray_wolf</value>
+			<value id="EDD7A208" type="int">300</value>
+		</object>
+		<object name="iberian_wolf">
+			<value id="6E68E734" type="string">iberian_wolf</value>
+			<value id="EDD7A208" type="int">300</value>
+		</object>
+		<object name="lion">
+			<value id="6E68E734" type="string">lion</value>
+			<value id="EDD7A208" type="int">300</value>
+		</object>
+	</object>
+</container>
