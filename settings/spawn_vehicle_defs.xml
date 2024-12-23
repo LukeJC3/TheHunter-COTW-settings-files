@@ -1,70 +1,70 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <container extension=".bin" format="RTPC" endian="Little">
 	<object name="root">
-		<object id="83647B76">
-			<object id="0B621FB6">
+		<object name="spawn_system">
+			<object name="resource_definitions">
 				<object name="v0000_car_autostraad_oldjeep_civilian_01">
 					<value name="aabb_max" type="vec">0.98,2.08,2.49</value>
 					<value name="aabb_min" type="vec">-0.98,0,-0.55</value>
 					<value name="debug" type="string">vehicle|ground|civilian</value>
+					<value name="desc" type="string">v0000_car_autostraad_oldjeep_civilian_01</value>
 					<value name="entity" type="string">editor\entities\vehicles\01_land\v0000_car_autostraad_oldjeep\v0000_car_autostraad_oldjeep_civilian_01.ee</value>
 					<value name="select" type="int">100</value>
 					<value name="tags" type="string">vehicle</value>
-					<value id="F71C2A21" type="string">v0000_car_autostraad_oldjeep_civilian_01</value>
 				</object>
 				<object name="v0000_car_autostraad_oldjeep_civilian_z80">
 					<value name="aabb_max" type="vec">0.98,2.08,2.49</value>
 					<value name="aabb_min" type="vec">-0.98,0,-0.55</value>
 					<value name="debug" type="string">vehicle|ground|z80</value>
+					<value name="desc" type="string">v0000_car_autostraad_oldjeep_civilian_z80</value>
 					<value name="entity" type="string">editor\entities\vehicles\01_land\v0000_car_autostraad_oldjeep\v0000_car_autostraad_oldjeep_civilian_z80.ee</value>
 					<value name="select" type="int">100</value>
 					<value name="tags" type="string">vehicle,z80</value>
-					<value id="F71C2A21" type="string">v0000_car_autostraad_oldjeep_civilian_z80</value>
 				</object>
 				<object name="v0000_car_autostraad_oldjeep_military_z80">
 					<value name="aabb_max" type="vec">0.98,2.08,2.49</value>
 					<value name="aabb_min" type="vec">-0.98,0,-0.55</value>
 					<value name="debug" type="string">vehicle|ground|z80</value>
+					<value name="desc" type="string">v0000_car_autostraad_oldjeep_military_z80</value>
 					<value name="entity" type="string">editor\entities\vehicles\01_land\v0000_car_autostraad_oldjeep\v0000_car_autostraad_oldjeep_military_z80.ee</value>
 					<value name="select" type="int">100</value>
 					<value name="tags" type="string">vehicle,z80</value>
-					<value id="F71C2A21" type="string">v0000_car_autostraad_oldjeep_military_z80</value>
 				</object>
 				<object name="v001_car_atv_black_silver">
 					<value name="aabb_max" type="vec">0.25,0.97,0.76</value>
 					<value name="aabb_min" type="vec">-0.25,0,-0.96</value>
 					<value name="debug" type="string">vehicle|ground|thcotw</value>
+					<value name="desc" type="string">v001_car_atv_black_silver</value>
 					<value name="entity" type="string">editor\entities\vehicles\01_land\v001_car_atv\v001_car_atv_black_silver.ee</value>
 					<value name="select" type="int">100</value>
 					<value name="tags" type="string">vehicle,equipment_atv_01_black_silver</value>
-					<value id="F71C2A21" type="string">v001_car_atv_black_silver</value>
 				</object>
 				<object name="v001_car_atv_default">
 					<value name="aabb_max" type="vec">0.25,0.97,0.76</value>
 					<value name="aabb_min" type="vec">-0.25,0,-0.96</value>
 					<value name="debug" type="string">vehicle|ground|thcotw</value>
+					<value name="desc" type="string">v001_car_atv_default</value>
 					<value name="entity" type="string">editor\entities\vehicles\01_land\v001_car_atv\v001_car_atv_default.ee</value>
 					<value name="select" type="int">100</value>
 					<value name="tags" type="string">vehicle,equipment_atv_01</value>
-					<value id="F71C2A21" type="string">v001_car_atv_default</value>
 				</object>
 				<object name="v001_car_atv_default">
 					<value name="aabb_max" type="vec">0.25,0.97,0.76</value>
 					<value name="aabb_min" type="vec">-0.25,0,-0.96</value>
 					<value name="debug" type="string">vehicle|ground|thcotw</value>
+					<value name="desc" type="string">v001_car_atv_black_red</value>
 					<value name="entity" type="string">editor\entities\vehicles\01_land\v001_car_atv\v001_car_atv_black_red.ee</value>
 					<value name="select" type="int">100</value>
 					<value name="tags" type="string">vehicle,equipment_atv_01_black_red</value>
-					<value id="F71C2A21" type="string">v001_car_atv_black_red</value>
 				</object>
 				<object name="v0012_car_autostraad_atv_civilian_01_z80">
 					<value name="aabb_max" type="vec">0.25,0.97,0.76</value>
 					<value name="aabb_min" type="vec">-0.25,0,-0.96</value>
 					<value name="debug" type="string">vehicle|ground|z80</value>
+					<value name="desc" type="string">v0012_car_autostraad_atv_civilian_01_z80</value>
 					<value name="entity" type="string">editor\entities\vehicles\01_land\v0000_car_autostraad_oldjeep\v0000_car_autostraad_oldjeep_military_z80.ee</value>
 					<value name="select" type="int">100</value>
 					<value name="tags" type="string">vehicle,hp_atv</value>
-					<value id="F71C2A21" type="string">v0012_car_autostraad_atv_civilian_01_z80</value>
 				</object>
 			</object>
 		</object>
