@@ -16,6 +16,9 @@ However Avalanche is moving towards using ADF for more and more things. ADF was 
 
 Some bin files in TheHunter COTW are already actually ADF files, which I'm pretty sure I can not re-create in this way, so I am only remaking the RTPC bin files
 
+## How is this different than using existing tools?
+At the end of the day it's your preference that decides what you want to use. For me it's nice having the same workflow that I'm used to from the Just Cause games. Having the files unpacked in this way also lets you add and remove information, which is not possible in hex
+
 ## Ok but how can I use these files?
 Simply download all the XMLs. Also get the most recent [Just Cause 3 tools collection](https://drive.google.com/file/d/13Iijzxg2wUUh9w-OqzomlaN5XGixLp7x/view?usp=drive_link) and extract it
 
