@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<container extension=".bin" format="RTPC" endian="Little">
+	<object name="root">
+		<object id="83647B76">
+			<object id="0B621FB6">
+				<object name="wolf_unspawned_howl">
+					<value name="debug" type="string">AI</value>
+					<value name="entity" type="string">editor\entities\hp_gameplay\wolf_unspawned_howl.ee</value>
+					<value name="tags" type="string">wolf_unspawned_howl</value>
+					<value id="F71C2A21" type="string">wolf_unspawned_howl</value>
+				</object>
+			</object>
+		</object>
+	</object>
+</container>

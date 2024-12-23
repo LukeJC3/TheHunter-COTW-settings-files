@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<container extension=".bin" format="RTPC" endian="Little">
+	<object name="root">
+		<object id="83647B76">
+			<object id="0B621FB6">
+				<object name="bloodhound">
+					<value name="debug" type="string">dogs|hunting_dogs</value>
+					<value name="entity" type="string">editor\entities\hp_characters\dogs\bloodhound\bloodhound_male.ee</value>
+					<value name="tags" type="string">dog,male,bloodhound,dog_tracker_01</value>
+					<value id="F71C2A21" type="string">bloodhound</value>
+				</object>
+				<object name="retriever_labrador">
+					<value name="debug" type="string">dogs|hunting_dogs</value>
+					<value name="entity" type="string">editor\entities\hp_characters\dogs\labrador_retriever\labrador_retriever_male.ee</value>
+					<value name="tags" type="string">dog,male,retriever_labrador,dog_retriever_01</value>
+					<value id="F71C2A21" type="string">retriever_labrador</value>
+				</object>
+				<object id="58F1884E">
+					<value name="debug" type="string">dogs|hunting_dogs</value>
+					<value name="entity" type="string">editor\entities\hp_characters\dogs\bloodhound\bloodhound_female.ee</value>
+					<value name="tags" type="string">dog,female,bloodhound,dog_tracker_01</value>
+					<value id="F71C2A21" type="string">bloodhound</value>
+				</object>
+				<object id="D65DA1EB">
+					<value name="debug" type="string">dogs|hunting_dogs</value>
+					<value name="entity" type="string">editor\entities\hp_characters\dogs\labrador_retriever\labrador_retriever_female.ee</value>
+					<value name="tags" type="string">dog,female,retriever_labrador,dog_retriever_01</value>
+					<value id="F71C2A21" type="string">retriever_labrador</value>
+				</object>
+			</object>
+		</object>
+	</object>
+</container>

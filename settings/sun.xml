@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<container extension=".bin" format="RTPC" endian="Little">
+	<object name="root">
+		<value id="56BB95AB" type="float">42</value>
+		<value id="CD2C197F" type="float">180</value>
+	</object>
+</container>

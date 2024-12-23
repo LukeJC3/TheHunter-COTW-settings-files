@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<container extension=".bin" format="RTPC" endian="Little">
+	<object name="root">
+		<value name="blur" type="float">0</value>
+		<value name="dof_height_falloff" type="float">0</value>
+		<value name="dof_smoothness_near" type="float">0.8</value>
+		<value name="focal_distance" type="float">2500</value>
+		<value name="focal_distance_near" type="float">1</value>
+		<value name="heat_haze" type="float">0</value>
+		<value name="heat_haze_height_falloff" type="float">2.5</value>
+		<value name="max_dof" type="float">0</value>
+		<value name="max_dof_near" type="float">0</value>
+		<value name="sun_halo_intensity" type="float">1.1</value>
+		<value id="15BA5C5B" type="float">1</value>
+		<value id="1D51A593" type="float">250</value>
+		<value id="66E3ECF5" type="float">0</value>
+		<value id="679DEF2A" type="float">1</value>
+		<value id="6B8554F4" type="float">0.4</value>
+		<value id="73986355" type="float">0.4</value>
+		<value id="796EAE83" type="float">0</value>
+		<value id="8062F617" type="float">1</value>
+		<value id="8B639E1E" type="float">1</value>
+		<value id="A19815AA" type="float">0.003</value>
+		<value id="AB2627CC" type="float">1</value>
+		<value id="BE6BBD60" type="float">0.025</value>
+		<value id="C0A7BFEA" type="float">0</value>
+		<value id="C829A1AC" type="float">0</value>
+		<value id="CC44E277" type="float">1</value>
+		<value id="CF2F7268" type="float">0</value>
+		<value id="D076B70C" type="float">0.8</value>
+		<value id="E0D54003" type="float">0</value>
+		<value id="E57D0A03" type="float">1</value>
+		<value id="FAD89AB2" type="float">1</value>
+	</object>
+</container>

@@ -1,0 +1,44 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<container extension=".bin" format="RTPC" endian="Little">
+	<object name="root">
+		<object name="sets">
+			<object name="set_0" />
+			<object name="set_1">
+				<object name="decoration_0">
+					<value name="distance_between" type="float">10</value>
+					<value name="place_left" type="int">1</value>
+					<value name="place_middle" type="int">0</value>
+					<value name="place_right" type="int">1</value>
+					<value name="spawn_tags" type="string">roadsign01,road_decoration,sign</value>
+					<value id="1AB7E979" type="float">0</value>
+					<value id="2ED73C58" type="int">0</value>
+					<value id="33E84893" type="float">0</value>
+					<value id="AB0B0518" type="float">10</value>
+					<value id="C79FE128" type="int">1</value>
+					<value id="DC1F4D18" type="float">2.5</value>
+					<value id="E508709C" type="int">1</value>
+					<value id="F9C7B755" type="float">0</value>
+					<value id="FEDAB76E" type="float">0</value>
+				</object>
+			</object>
+			<object name="set_2">
+				<object name="decoration_0">
+					<value name="distance_between" type="float">10</value>
+					<value name="place_left" type="int">1</value>
+					<value name="place_middle" type="int">0</value>
+					<value name="place_right" type="int">1</value>
+					<value name="spawn_tags" type="string">pole,road_decoration,sign</value>
+					<value id="1AB7E979" type="float">0</value>
+					<value id="2ED73C58" type="int">0</value>
+					<value id="33E84893" type="float">0</value>
+					<value id="AB0B0518" type="float">10</value>
+					<value id="C79FE128" type="int">1</value>
+					<value id="DC1F4D18" type="float">2.5</value>
+					<value id="E508709C" type="int">1</value>
+					<value id="F9C7B755" type="float">0</value>
+					<value id="FEDAB76E" type="float">0</value>
+				</object>
+			</object>
+		</object>
+	</object>
+</container>
